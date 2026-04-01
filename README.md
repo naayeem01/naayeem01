@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/naayeem01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Founder+%26+CTO+of+TNXBD+IT+SOLUTION;💻+Full+Stack+Developer+%7C+5%2B+Years;☁️+Cloud+Architect+%7C+AWS+%26+Azure;🏗️+Enterprise+Solutions+Specialist;🌟+Building+Scalable+Production+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%9A%80+Founder+%26+CTO+of+TNXBD+IT+SOLUTION;%F0%9F%92%BB+Full+Stack+Developer+%7C+5%2B+Years;%E2%98%81%EF%B8%8F+Cloud+Architect+%7C+AWS+%26+Azure;%F0%9F%8F%97%EF%B8%8F+Enterprise+Solutions+Specialist;%F0%9F%8C%9F+Building+Scalable+Production+Apps" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -67,9 +67,9 @@ const niemMandol = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naayeem01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naayeem01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naayeem01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naayeem01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 </div>
 
 <div align="center">
@@ -81,7 +81,7 @@ const niemMandol = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naayeem01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=naayeem01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
 </div>
 
 ---
