@@ -1,407 +1,203 @@
-# NIEM MANDOL
+<div align="center">
 
-**Full Stack Developer & Entrepreneur**
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NIEM%20MANDOL&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20Entrepreneur&descSize=22&descAlignY=55&descColor=b0c4de" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://github.com/naayeem01">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Founder+%26+CTO+of+TNXBD+IT+SOLUTION;💻+Full+Stack+Developer+%7C+5%2B+Years;☁️+Cloud+Architect+%7C+AWS+%26+Azure;🏗️+Enterprise+Solutions+Specialist;🌟+Building+Scalable+Production+Apps" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Followers Badges -->
+<img src="https://komarev.com/ghpvc/?username=naayeem01&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/naayeem01?tab=followers">
+  <img src="https://img.shields.io/github/followers/naayeem01?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers"/>
+</a>
+
+</div>
 
 ---
 
-## PROFESSIONAL SUMMARY
+## 👨‍💻 About Me
 
-I am the founder and lead architect of **TNXBD IT SOLUTION**, a premier software development agency specializing in enterprise-grade solutions. With extensive expertise in full-stack development, cloud infrastructure, and business technology, I deliver scalable, production-ready applications that drive measurable business impact.
-
-My focus is on architecting robust systems, leading high-performance teams, and translating complex business requirements into elegant technical solutions.
-
----
-
-## CORE TECHNICAL EXPERTISE
-
-### FRONTEND TECHNOLOGIES
-```
-React.js              ████████████████████ 95%
-TypeScript            ████████████████████ 95%
-Tailwind CSS          ███████████████████░ 93%
-HTML5 & CSS3          ████████████████████ 98%
-Redux & State Mgmt    ██████████████████░░ 90%
-```
-
-### BACKEND TECHNOLOGIES
-```
-Node.js & Express     ████████████████████ 95%
-NestJS Framework      ██████████████████░░ 90%
-Python & FastAPI      ███████████████████░ 92%
-Django & Flask        ██████████████████░░ 90%
-RESTful API Design    ████████████████████ 98%
-```
-
-### CLOUD & INFRASTRUCTURE
-```
-AWS (EC2, S3, RDS)    ████████████████████ 96%
-Microsoft Azure       ███████████████████░ 93%
-Docker & Containers   ██████████████████░░ 91%
-CI/CD Pipelines       ████████████████████ 94%
-Serverless Arch.      ███████████████████░ 92%
+```typescript
+const niemMandol = {
+  role:       "Founder & CTO @ TNXBD IT SOLUTION",
+  location:   "Mirpur, Dhaka 🇧🇩",
+  focus:      ["Enterprise Web Apps", "Cloud Architecture", "Team Leadership"],
+  passion:    "Turning complex business problems into elegant technical solutions",
+  contact: {
+    email:  "info@tnxbd.com",
+    phone:  "01884444299",
+  },
+  currentlyExploring: "AI/ML Integration for intelligent enterprise solutions 🤖",
+};
 ```
 
-### DATABASE SYSTEMS
-```
-MongoDB & NoSQL       ███████████████████░ 93%
-MySQL & PostgreSQL    ████████████████████ 96%
-Database Design       ████████████████████ 97%
-Query Optimization    ███████████████████░ 94%
-Data Architecture     ████████████████████ 95%
-```
-
-### DEVELOPMENT TOOLS & PRACTICES
-```
-Git & GitHub          ████████████████████ 99%
-System Architecture   ████████████████████ 97%
-Agile/Scrum           ████████████████████ 96%
-Project Management    ██████████████████░░ 92%
-Technical Leadership  ███████████████████░ 93%
-```
+> 🏢 I lead **TNXBD IT SOLUTION** — a premier software development agency delivering enterprise-grade, production-ready applications for Fortune 500 and mid-market clients worldwide.
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## 🛠️ Tech Stack
 
-### TNXBD IT SOLUTION
-**Founder & Chief Technology Officer**
+<div align="center">
 
-*Mirpur, Dhaka - Bangladesh*
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,redux,jest,webpack,vite&perline=10" />
 
-**Company Overview:**
-- Established premier software development agency
-- Specialized in enterprise solutions and custom development
-- Team of experienced developers and architects
-- Proven track record with Fortune 500 and mid-market clients
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,flask,graphql&perline=10" />
 
-**Core Responsibilities:**
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=10" />
 
-1. **Technical Architecture & Strategy**
-   - Design scalable system architectures for enterprise applications
-   - Evaluate emerging technologies for business application
-   - Establish technical best practices and coding standards
-   - Lead technology stack decisions for client projects
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,jenkins,terraform,nginx&perline=10" />
 
-2. **Full-Stack Development Leadership**
-   - Direct development of complex, multi-tier applications
-   - Implement microservices and distributed system architectures
-   - Optimize performance across frontend, backend, and infrastructure
-   - Ensure security, compliance, and data protection standards
+### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&perline=10" />
 
-3. **Cloud Infrastructure Management**
-   - Deploy and manage applications on AWS and Microsoft Azure
-   - Design high-availability, fault-tolerant systems
-   - Implement auto-scaling and load balancing solutions
-   - Manage cloud costs and resource optimization
-
-4. **Project Delivery & Client Relations**
-   - Direct client communication and requirement analysis
-   - Manage project timelines, scope, and budget
-   - Deliver solutions within SLA and quality standards
-   - Provide post-launch support and maintenance
-
-5. **Team Leadership & Development**
-   - Build and mentor development teams
-   - Conduct code reviews and technical training
-   - Foster collaborative development culture
-   - Oversee professional growth of team members
+</div>
 
 ---
 
-## PROJECT PORTFOLIO
+## 📊 GitHub Statistics
 
-### Enterprise Development Services
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naayeem01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naayeem01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+</div>
 
-Our agency has successfully delivered across multiple industry sectors:
-
-**E-Commerce & Retail Solutions**
-- Full-stack e-commerce platforms with payment integration
-- Real-time inventory management systems
-- Customer relationship management platforms
-- Multi-vendor marketplace architectures
-
-**SaaS Applications**
-- Multi-tenant application architectures
-- Role-based access control systems
-- Subscription and billing management
-- Integration with third-party services
-
-**Business Management Systems**
-- Enterprise resource planning (ERP) modules
-- Human resources management systems
-- Supply chain optimization tools
-- Financial management applications
-
-**Data & Analytics**
-- Real-time analytics dashboards
-- Business intelligence platforms
-- Data visualization systems
-- Reporting and forecasting tools
-
-**Web Applications**
-- Progressive web applications (PWAs)
-- Single page applications (SPAs)
-- Complex interactive user interfaces
-- Mobile-responsive web solutions
-
-**API & Integration Services**
-- RESTful API development and optimization
-- Third-party service integration
-- Data synchronization systems
-- Legacy system integration
-
-### Project Delivery Standards
-
-Every project includes:
-
-- Comprehensive requirements analysis and planning
-- Modern technology stack selection
-- Responsive design across all devices
-- Rigorous testing and quality assurance
-- Security implementation and compliance
-- Performance optimization
-- Comprehensive documentation
-- Ongoing support and maintenance
-
-**Note:** Client projects are maintained in private repositories under Non-Disclosure Agreements to protect client confidentiality.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=naayeem01&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## TECHNOLOGY STACK
+## 🏆 GitHub Trophies
 
-### Frontend Development
-- **Frameworks:** React.js, Next.js
-- **Language:** TypeScript
-- **Styling:** Tailwind CSS, SCSS
-- **UI Libraries:** Material-UI, Ant Design
-- **State Management:** Redux, Context API
-- **Testing:** Jest, React Testing Library
-- **Build Tools:** Webpack, Vite
-
-### Backend Development
-- **Runtime:** Node.js
-- **Frameworks:** Express.js, NestJS
-- **Language:** Python, TypeScript
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **API:** GraphQL, REST
-- **Authentication:** JWT, OAuth 2.0, Session Management
-- **Message Queues:** RabbitMQ, Redis
-
-### Cloud Platforms
-- **AWS Services:** EC2, S3, RDS, Lambda, API Gateway, CloudFront, CloudWatch
-- **Azure Services:** App Services, SQL Database, Cosmos DB, Functions, Service Bus
-- **Container:** Docker, Kubernetes (when required)
-
-### DevOps & Infrastructure
-- **Version Control:** Git, GitHub
-- **CI/CD:** GitHub Actions, Jenkins, GitLab CI
-- **Container Orchestration:** Docker, Docker Compose
-- **Monitoring:** CloudWatch, DataDog, ELK Stack
-- **Infrastructure as Code:** Terraform, CloudFormation
-
-### Additional Technologies
-- **Email Services:** SendGrid, Mailgun
-- **Payment Processing:** Stripe, PayPal
-- **Cloud Storage:** AWS S3, Azure Blob Storage
-- **CDN:** CloudFlare, AWS CloudFront
-- **Caching:** Redis, Memcached
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naayeem01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+</div>
 
 ---
 
-## DEVELOPMENT METHODOLOGIES
+## 💼 Core Expertise
 
-### Code Quality & Standards
-- SOLID principles and design patterns
-- Type-safe development with TypeScript
-- Comprehensive unit and integration testing
-- Code review process and peer programming
-- Continuous integration and deployment
-- Static code analysis and linting
+<div align="center">
 
-### Performance Optimization
-- Database query optimization and indexing
-- API response caching strategies
-- Frontend asset optimization and bundling
-- Cloud resource utilization optimization
-- Monitoring and alerting systems
-- Regular performance audits
+| 🎯 Domain | 🔧 Skill | 📈 Level |
+|-----------|---------|----------|
+| React.js | Frontend | `████████████████████` 95% |
+| Node.js / NestJS | Backend | `████████████████████` 95% |
+| AWS / Azure | Cloud | `████████████████████` 96% |
+| PostgreSQL / MongoDB | Databases | `████████████████████` 96% |
+| System Architecture | Design | `████████████████████` 97% |
+| CI/CD Pipelines | DevOps | `████████████████████` 94% |
+| RESTful API Design | Integration | `████████████████████` 98% |
+| Git & GitHub | Version Control | `████████████████████` 99% |
 
-### Security & Compliance
-- Secure authentication and authorization
-- Data encryption (at rest and in transit)
-- OWASP security best practices
-- Regular security audits and penetration testing
-- Compliance with industry standards (SOC 2, GDPR, etc.)
-- Incident response and disaster recovery planning
-
-### Scalability Architecture
-- Horizontal and vertical scaling strategies
-- Load balancing and failover mechanisms
-- Microservices and distributed architecture
-- Database replication and clustering
-- Content delivery networks
-- Auto-scaling policies
+</div>
 
 ---
 
-## BUSINESS CAPABILITIES
+## 🚀 What I Build
 
-### Services Offered
-1. **Custom Web Application Development**
-   - Full-stack development from concept to deployment
-   - Modernization of legacy systems
-   - Progressive web application development
+<div align="center">
 
-2. **Cloud Solutions & Infrastructure**
-   - AWS and Azure cloud migration
-   - Infrastructure design and management
-   - Cost optimization and governance
+| 🛒 E-Commerce | ☁️ SaaS Platforms | 📊 Analytics |
+|:---:|:---:|:---:|
+| Full-stack storefronts | Multi-tenant architectures | Real-time dashboards |
+| Payment integrations | RBAC & subscription systems | BI platforms |
+| Multi-vendor marketplaces | Third-party integrations | Forecasting tools |
 
-3. **API Development & Integration**
-   - RESTful and GraphQL API development
-   - Third-party service integration
-   - Legacy system integration and modernization
+| 🏢 Enterprise Systems | 🔌 API & Integrations | 📱 Web Apps |
+|:---:|:---:|:---:|
+| ERP / HRMS modules | RESTful & GraphQL APIs | Progressive Web Apps |
+| Supply chain tools | Legacy system migration | SPAs & responsive UI |
+| Financial management | Data sync services | Mobile-first solutions |
 
-4. **Database Design & Optimization**
-   - Relational database architecture
-   - NoSQL implementation and optimization
-   - Data migration and management
-   - Performance tuning
-
-5. **Technical Consulting**
-   - System architecture and design review
-   - Technology stack evaluation and selection
-   - Best practices implementation
-   - Team augmentation and project staffing
-
-6. **Ongoing Support & Maintenance**
-   - Post-launch application support
-   - Bug fixes and feature enhancements
-   - Performance monitoring and optimization
-   - Security updates and patches
+</div>
 
 ---
 
-## INDUSTRY EXPERIENCE
+## 📈 Contribution Activity
 
-Delivered solutions across multiple sectors:
-- Financial Services & Banking
-- E-Commerce & Retail
-- Healthcare & Life Sciences
-- Manufacturing & Supply Chain
-- Real Estate & Property Management
-- Education & E-Learning
-- Telecommunications
-- Government & Public Sector
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naayeem01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="95%" alt="Activity Graph"/>
+</div>
 
 ---
 
-## CONTACT & BUSINESS INFORMATION
+## 🌍 Industries Served
 
-### TNXBD IT SOLUTION
+<div align="center">
 
-**Primary Contact:**
-- Phone: 01884444299
-- Email: info@tnxbd.com
-- Location: Mirpur, Dhaka - Bangladesh
+`💰 Financial Services` &nbsp; `🛍️ E-Commerce & Retail` &nbsp; `🏥 Healthcare` &nbsp; `🏭 Manufacturing`
 
-**Service Inquiries:**
-For project proposals, technical consulting, or partnership opportunities, please reach out:
-- Call: 01884444299
-- Email: info@tnxbd.com
+`🏠 Real Estate` &nbsp; `🎓 EdTech` &nbsp; `📡 Telecommunications` &nbsp; `🏛️ Government`
 
-**Company Details:**
-- Type: Custom Software Development Agency
-- Status: Fully Operational
-- Service Model: Full-Stack Development
-- Engagement Model: Project-Based & Team Augmentation
+</div>
 
 ---
 
-## GITHUB CONTRIBUTION METRICS
+## 📫 Let's Connect
 
-- **Total Contributions (2026):** 683+ active commits
-- **Repository Count:** 6+ public repositories
-- **Development Activity:** Consistent year-round development
-- **Expertise Areas:** Frontend, Backend, Infrastructure, DevOps
-- **Open Source:** Selective public repositories showcasing capabilities
+<div align="center">
 
-**Note:** Majority of development work involves proprietary client projects maintained in private repositories under confidentiality agreements.
+[![Email](https://img.shields.io/badge/Email-info@tnxbd.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tnxbd.com)
+&nbsp;
+[![Phone](https://img.shields.io/badge/Phone-01884444299-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801884444299)
+&nbsp;
+[![Location](https://img.shields.io/badge/Location-Mirpur%2C%20Dhaka%20🇧🇩-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Mirpur+Dhaka+Bangladesh)
 
----
+<br/>
 
-## PROFESSIONAL STANDARDS & COMMITMENTS
+[![GitHub](https://img.shields.io/badge/GitHub-naayeem01-181717?style=for-the-badge&logo=github)](https://github.com/naayeem01)
+&nbsp;
+[![Company](https://img.shields.io/badge/Company-TNXBD%20IT%20SOLUTION-ff6b6b?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:info@tnxbd.com)
 
-### Quality Assurance
-- ISO-compliant development processes
-- Comprehensive testing methodologies
-- Regular code reviews and audits
-- Performance monitoring and optimization
-- Security vulnerability assessments
-
-### Project Management
-- Agile/Scrum methodology implementation
-- Regular client communication and reporting
-- Transparent progress tracking
-- On-time and on-budget delivery
-- Scope management and change control
-
-### Professional Development
-- Continuous technology learning
-- Industry certifications and training
-- Best practices implementation
-- Community involvement and knowledge sharing
-- Innovation and emerging technology exploration
+</div>
 
 ---
 
-## TECHNOLOGY PHILOSOPHY & APPROACH
+## 💡 Philosophy
 
-Rather than adopting a one-size-fits-all technology approach, I believe in selecting the optimal technology for each specific problem and business context. This pragmatic philosophy has enabled delivery of:
+<div align="center">
 
-- Efficient and maintainable solutions
-- Cost-effective implementations
-- Future-proof architectures
-- Scalable systems
-- Secure applications
+> *"Select the optimal technology for each specific problem — not the trendiest one."*
+>
+> **Mission:** Deliver exceptional software solutions that solve complex business problems and drive measurable value.
+>
+> **Vision:** Be the trusted technology partner for enterprises seeking scalable, innovative, and secure custom software.
 
-Continuous learning and staying current with industry trends ensures that TNXBD IT SOLUTION provides cutting-edge solutions while maintaining proven, stable technologies that minimize risk.
-
----
-
-## CURRENT FOCUS AREAS
-
-- Building enterprise-scale applications with modern architectures
-- Optimizing cloud infrastructure for cost and performance
-- Implementing advanced security and compliance measures
-- Exploring AI/ML integration for intelligent solutions
-- Mentoring and developing engineering talent
-- Establishing thought leadership in software architecture
+</div>
 
 ---
 
-## VISION & MISSION
+<div align="center">
 
-**Mission:** To deliver exceptional software solutions that solve complex business problems and drive measurable value for our clients.
+### 📊 Quick Stats
 
-**Vision:** To be the trusted technology partner for enterprises seeking scalable, innovative, and secure custom software solutions.
+![Commits](https://img.shields.io/badge/2026%20Commits-683%2B-58a6ff?style=flat-square&logo=git)
+&nbsp;
+![Repos](https://img.shields.io/badge/Public%20Repos-6%2B-58a6ff?style=flat-square&logo=github)
+&nbsp;
+![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-58a6ff?style=flat-square&logo=dev.to)
+&nbsp;
+![Stack](https://img.shields.io/badge/Stack-Full%20Stack-58a6ff?style=flat-square&logo=stackshare)
 
-**Values:** Excellence, Innovation, Integrity, Collaboration, Continuous Improvement
+<br/>
 
----
+> ⚠️ *Most work lives in private repos under NDA — client confidentiality first.*
 
-## ACKNOWLEDGMENTS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-Success in software development is a collaborative endeavor. I credit the talented engineers and teams I've worked with, the supportive client relationships, and the broader technology community for continuous learning and growth.
-
----
-
-**TNXBD IT SOLUTION**
-
-*Delivering Excellence in Custom Software Development*
-
-Contact: 01884444299 | Email: info@tnxbd.com
+</div>
 
 ---
-
-*Last Updated: April 2026*
+*Last Updated: April 2026 · © TNXBD IT SOLUTION — Delivering Excellence in Custom Software Development*
