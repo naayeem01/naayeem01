@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NAAYEEM%20MANDOL&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20Entrepreneur&descSize=22&descAlignY=55&descColor=b0c4de" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NAAYEEM%20MANDOL&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%26amp%3B%20Entrepreneur&descSize=22&descAlignY=55&descColor=b0c4de" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/naayeem01">
