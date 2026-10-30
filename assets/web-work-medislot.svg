@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="124" viewBox="0 0 1200 124" role="img" aria-label="MediSlot: Appointment and slot booking for clinics.">
+  <defs>
+    <linearGradient id="sw" gradientUnits="userSpaceOnUse" x1="0" x2="320">
+      <stop offset="0" stop-color="#e23636" stop-opacity="0"/><stop offset=".45" stop-color="#e23636"/><stop offset=".7" stop-color="#3b82f6"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-340 0;-340 0;1220 0;1220 0" keyTimes="0;.1;.6;1" dur="4.5s" begin="1.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="c"><path d="M20.5 0.5H1199.5V103.5L1179.5 123.5H0.5V20.5Z"/></clipPath>
+  </defs>
+  <style>
+    .num { font: 900 56px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: none; stroke: #e23636; stroke-width: 1.6; }
+    .name { font: 800 30px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #f4f6ff; letter-spacing: 1px; }
+    .desc { font: 400 16px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #8a94b8; }
+    .stack { font: 600 12px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #93c5fd; letter-spacing: 2px; }
+    .st { font: 700 11px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #f4f6ff; letter-spacing: 2px; }
+    .go { font: 900 13px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #e23636; letter-spacing: 3px; }
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="124" fill="#111833"/>
+    <rect width="6" height="124" fill="#e23636"/>
+    <g fill="none" stroke="#ffffff" stroke-opacity=".14"><path d="M1200 0L1200.0 170.0M1200 0L1147.5 161.7M1200 0L1100.1 137.5M1200 0L1062.5 99.9M1200 0L1038.3 52.5M1200 0L1030.0 0.0"/><path d="M1200.0 30.4Q1196.0 25.5 1190.6 28.9Q1188.3 23.0 1182.2 24.6Q1181.8 18.2 1175.4 17.8Q1177.0 11.7 1171.1 9.4Q1174.5 4.0 1169.6 0.0M1200.0 60.7Q1191.9 50.9 1181.2 57.7Q1176.6 46.0 1164.3 49.1Q1163.5 36.5 1150.9 35.7Q1154.0 23.4 1142.3 18.8Q1149.1 8.1 1139.3 0.0M1200.0 91.1Q1187.9 76.4 1171.9 86.6Q1164.9 68.9 1146.5 73.7Q1145.3 54.7 1126.3 53.5Q1131.1 35.1 1113.4 28.1Q1123.6 12.1 1108.9 0.0M1200.0 121.4Q1183.9 101.9 1162.5 115.5Q1153.2 91.9 1128.6 98.2Q1127.1 72.9 1101.8 71.4Q1108.1 46.8 1084.5 37.5Q1098.1 16.1 1078.6 0.0M1200.0 151.8Q1179.8 127.3 1153.1 144.4Q1141.5 114.9 1110.8 122.8Q1108.8 91.2 1077.2 89.2Q1085.1 58.5 1055.6 46.9Q1072.7 20.2 1048.2 0.0"/></g>
+    <line x1="1000" y1="0" x2="1000" y2="30" stroke="#ffffff" stroke-opacity=".5">
+      <animate attributeName="y2" values="30;46;30" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </line>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 16;0 0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      <g transform="translate(1000 40) scale(0.6)">
+      <path d="M-4 -7L-14 -16L-20 -24M-4 -4L-18 -8L-26 -4M-4 -1L-18 4L-26 12M-4 2L-14 12L-20 24M4 -7L14 -16L20 -24M4 -4L18 -8L26 -4M4 -1L18 4L26 12M4 2L14 12L20 24" fill="none" stroke="#05070f" stroke-width="2.4" stroke-linejoin="round"/>
+      <path d="M-4 -7L-14 -16L-20 -24M-4 -4L-18 -8L-26 -4M-4 -1L-18 4L-26 12M-4 2L-14 12L-20 24M4 -7L14 -16L20 -24M4 -4L18 -8L26 -4M4 -1L18 4L26 12M4 2L14 12L20 24" fill="none" stroke="#e23636" stroke-width=".8" stroke-opacity=".9"/>
+      <ellipse cx="0" cy="11" rx="8" ry="11" fill="#05070f" stroke="#e23636" stroke-width="1.2"/>
+      <circle cx="0" cy="-5" r="6" fill="#05070f" stroke="#e23636" stroke-width="1.2"/>
+      <circle cx="-2" cy="-6" r="1.2" fill="#e23636"/><circle cx="2" cy="-6" r="1.2" fill="#e23636"/>
+    </g>
+    </g>
+  </g>
+  <path d="M20.5 0.5H1199.5V103.5L1179.5 123.5H0.5V20.5Z" fill="none" stroke="#3b82f6" stroke-opacity=".35"/>
+  <path d="M20.5 0.5H1199.5V103.5L1179.5 123.5H0.5V20.5Z" fill="none" stroke="url(#sw)" stroke-width="2.5"/>
+  <text class="num" x="30" y="84">04</text>
+  <line x1="128" y1="26" x2="128" y2="98" stroke="#e23636" stroke-opacity=".45"/>
+  <text class="name" x="152" y="54">MediSlot</text>
+  <text class="desc" x="152" y="82">Appointment and slot booking for clinics.</text>
+  <text class="stack" x="152" y="106">NEXT.JS · TYPESCRIPT</text>
+  <rect x="1064" y="22" width="112" height="24" rx="12" fill="#e23636" fill-opacity=".15" stroke="#e23636"/>
+  <circle cx="1080" cy="34" r="4" fill="#3ddc84"><animate attributeName="opacity" values="1;.2;1" dur="1.4s" begin="1.5s" repeatCount="indefinite"/></circle>
+  <text class="st" x="1090" y="38">DEPLOYED</text>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 0;7 0;0 0;0 0" keyTimes="0;.5;.6;.7;1" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    <text class="go" x="1172" y="94" text-anchor="end">SWING IN ▸</text>
+  </g>
+</svg>

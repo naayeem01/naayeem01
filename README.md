@@ -1,4 +1,4 @@
-<a href="https://hellonayeem.com"><img src="./assets/hud-header.svg" width="100%" alt="Niem Mandol — Founder & CTO, TNXBD IT Solution"></a>
+<a href="https://hellonayeem.com"><img src="./assets/web-header.svg" width="100%" alt="Niem Mandol — Founder & CTO, TNXBD IT Solution"></a>
 
 <p>
 Hi, I'm Niem. I run <a href="https://website-tnxbd.vercel.app"><b>TNXBD IT Solution</b></a>, a software studio in Mirpur, Dhaka.
@@ -6,25 +6,25 @@ For five years I've been designing and building the systems businesses run on: E
 I like reliable technology, clear code and shipping things people actually use.
 </p>
 
-<img src="./assets/hud-h-work.svg" width="100%" alt="Selected work">
+<img src="./assets/web-h-work.svg" width="100%" alt="Selected work">
 
-<a href="https://github.com/naayeem01/ShortLink"><img src="./assets/hud-work-shortlink.svg" width="100%" alt="ShortLink"></a>
-<a href="https://github.com/naayeem01/Trimly"><img src="./assets/hud-work-trimly.svg" width="100%" alt="Trimly"></a>
-<a href="https://github.com/naayeem01/Zkteco-Link-DSK"><img src="./assets/hud-work-zkteco.svg" width="100%" alt="Zkteco-Link-DSK"></a>
-<a href="https://github.com/naayeem01/MediSlot"><img src="./assets/hud-work-medislot.svg" width="100%" alt="MediSlot"></a>
-<a href="https://github.com/naayeem01/Website-tnxbd"><img src="./assets/hud-work-tnxbd.svg" width="100%" alt="Website-tnxbd"></a>
+<a href="https://github.com/naayeem01/ShortLink"><img src="./assets/web-work-shortlink.svg" width="100%" alt="ShortLink"></a>
+<a href="https://github.com/naayeem01/Trimly"><img src="./assets/web-work-trimly.svg" width="100%" alt="Trimly"></a>
+<a href="https://github.com/naayeem01/Zkteco-Link-DSK"><img src="./assets/web-work-zkteco.svg" width="100%" alt="Zkteco-Link-DSK"></a>
+<a href="https://github.com/naayeem01/MediSlot"><img src="./assets/web-work-medislot.svg" width="100%" alt="MediSlot"></a>
+<a href="https://github.com/naayeem01/Website-tnxbd"><img src="./assets/web-work-tnxbd.svg" width="100%" alt="Website-tnxbd"></a>
 
 <sub>Most of my client work (ERP, HRMS, fintech, e-commerce) lives in private repos under NDA. <a href="mailto:info@tnxbd.com">Ask me for a case study.</a></sub>
 
 <br><br>
 
-<img src="./assets/hud-h-arsenal.svg" width="100%" alt="Arsenal">
+<img src="./assets/web-h-toolkit.svg" width="100%" alt="Toolkit">
 
-<img src="./assets/hud-ticker.svg" width="100%" alt="Technologies I work with">
+<img src="./assets/web-ticker.svg" width="100%" alt="Technologies I work with">
 
 <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=12&i=ts,react,nextjs,nodejs,nestjs,laravel,python,postgres,mongodb,aws,docker,githubactions" alt="ts, react, nextjs, nodejs, nestjs, laravel, python, postgres, mongodb, aws, docker, githubactions"></p>
 
-<img src="./assets/hud-skills.svg" width="100%" alt="Capability matrix">
+<img src="./assets/web-skills.svg" width="100%" alt="Skill levels">
 
 <details>
 <summary><b>Open the full toolbox</b></summary>
@@ -64,20 +64,20 @@ I like reliable technology, clear code and shipping things people actually use.
 
 <br>
 
-<img src="./assets/hud-h-telemetry.svg" width="100%" alt="Telemetry">
+<img src="./assets/web-h-stats.svg" width="100%" alt="Stats">
 
 <p>
-<img src="./profile-summary-card-output/highcontrast/0-profile-details.svg" width="100%" alt="profile details">
+<img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="profile details">
 </p>
 
 <p>
-<img src="./profile-summary-card-output/highcontrast/3-stats.svg" width="49%" alt="stats">
-<img src="./profile-summary-card-output/highcontrast/4-productive-time.svg" width="49%" alt="productive time">
-<img src="./profile-summary-card-output/highcontrast/1-repos-per-language.svg" width="49%" alt="repos per language">
-<img src="./profile-summary-card-output/highcontrast/2-most-commit-language.svg" width="49%" alt="most commit language">
+<img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" alt="stats">
+<img src="./profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="productive time">
+<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="repos per language">
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="most commit language">
 </p>
 
-<img src="https://streak-stats.demolab.com?user=naayeem01&hide_border=true&date_format=j%20M%5B%20Y%5D&background=050b14&ring=5ce1ff&fire=f2b632&currStreakLabel=f2b632&sideNums=e8f6ff&currStreakNum=e8f6ff&sideLabels=5ce1ff&dates=7f9bb0&stroke=1b6f8a" width="100%" alt="Contribution streak">
+<img src="https://streak-stats.demolab.com?user=naayeem01&hide_border=true&date_format=j%20M%5B%20Y%5D&background=111833&ring=e23636&fire=e23636&currStreakLabel=3b82f6&sideNums=f4f6ff&currStreakNum=f4f6ff&sideLabels=3b82f6&dates=8a94b8&stroke=26305c" width="100%" alt="Contribution streak">
 
 <details open>
 <summary><b>Contribution graph</b> <sub>(public activity, refreshed daily)</sub></summary>
@@ -91,15 +91,15 @@ I like reliable technology, clear code and shipping things people actually use.
 
 <br>
 
-<img src="./assets/hud-h-protocol.svg" width="100%" alt="Protocol">
+<img src="./assets/web-h-conduct.svg" width="100%" alt="Code of conduct">
 
-> Pick the right tool for the problem, not the trendiest one.
+> With great code comes great responsibility. Pick the right tool for the problem, not the trendiest one.
 
 I want to build software that solves real business problems and keeps paying off for years, and I'd like TNXBD to be the partner companies trust when the work has to be scalable, secure and done properly.
 
 <br>
 
-<img src="./assets/hud-h-comms.svg" width="100%" alt="Open channel">
+<img src="./assets/web-h-signal.svg" width="100%" alt="Signal me">
 
 <p>
 Have a project in mind, or just want to talk shop? Send a message.
@@ -112,6 +112,6 @@ Have a project in mind, or just want to talk shop? Send a message.
 <a href="https://website-tnxbd.vercel.app">TNXBD IT Solution</a>
 </p>
 
-<img src="./assets/hud-signoff.svg" width="100%" alt="End of transmission. Thanks for stopping by. — Niem">
+<img src="./assets/web-signoff.svg" width="100%" alt="Thanks for swinging by. — Niem">
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=naayeem01&label=VISITORS&color=1b6f8a&style=flat-square" alt="visitors"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=naayeem01&label=VISITORS&color=e23636&style=flat-square" alt="visitors"></p>

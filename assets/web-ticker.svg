@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="TYPESCRIPT, REACT, NEXT.JS, NODE.JS, NESTJS, LARAVEL, PYTHON, POSTGRESQL, MONGODB, REDIS, AWS, DOCKER, GRAPHQL, TAILWIND">
+  <defs><clipPath id="c"><rect x="230" y="0" width="970" height="56"/></clipPath></defs>
+  <style>
+    .t { font: 800 17px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #f4f6ff; letter-spacing: 3px; }
+    .sep { fill: #e23636; }
+    .tag { font: 900 13px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #fff; letter-spacing: 2px; }
+  </style>
+  <path d="M12.5 0.5H1199.5V43.5L1187.5 55.5H0.5V12.5Z" fill="#0a0f24" stroke="#3b82f6" stroke-opacity=".45"/>
+  <g clip-path="url(#c)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-1800 0" dur="40s" repeatCount="indefinite"/>
+      <text class="t" x="240" y="35" textLength="1800" lengthAdjust="spacing"><tspan>TYPESCRIPT</tspan><tspan class="sep">  ✳  </tspan><tspan>REACT</tspan><tspan class="sep">  ✳  </tspan><tspan>NEXT.JS</tspan><tspan class="sep">  ✳  </tspan><tspan>NODE.JS</tspan><tspan class="sep">  ✳  </tspan><tspan>NESTJS</tspan><tspan class="sep">  ✳  </tspan><tspan>LARAVEL</tspan><tspan class="sep">  ✳  </tspan><tspan>PYTHON</tspan><tspan class="sep">  ✳  </tspan><tspan>POSTGRESQL</tspan><tspan class="sep">  ✳  </tspan><tspan>MONGODB</tspan><tspan class="sep">  ✳  </tspan><tspan>REDIS</tspan><tspan class="sep">  ✳  </tspan><tspan>AWS</tspan><tspan class="sep">  ✳  </tspan><tspan>DOCKER</tspan><tspan class="sep">  ✳  </tspan><tspan>GRAPHQL</tspan><tspan class="sep">  ✳  </tspan><tspan>TAILWIND</tspan><tspan class="sep">  ✳  </tspan></text>
+      <text class="t" x="2040" y="35" textLength="1800" lengthAdjust="spacing"><tspan>TYPESCRIPT</tspan><tspan class="sep">  ✳  </tspan><tspan>REACT</tspan><tspan class="sep">  ✳  </tspan><tspan>NEXT.JS</tspan><tspan class="sep">  ✳  </tspan><tspan>NODE.JS</tspan><tspan class="sep">  ✳  </tspan><tspan>NESTJS</tspan><tspan class="sep">  ✳  </tspan><tspan>LARAVEL</tspan><tspan class="sep">  ✳  </tspan><tspan>PYTHON</tspan><tspan class="sep">  ✳  </tspan><tspan>POSTGRESQL</tspan><tspan class="sep">  ✳  </tspan><tspan>MONGODB</tspan><tspan class="sep">  ✳  </tspan><tspan>REDIS</tspan><tspan class="sep">  ✳  </tspan><tspan>AWS</tspan><tspan class="sep">  ✳  </tspan><tspan>DOCKER</tspan><tspan class="sep">  ✳  </tspan><tspan>GRAPHQL</tspan><tspan class="sep">  ✳  </tspan><tspan>TAILWIND</tspan><tspan class="sep">  ✳  </tspan></text>
+    </g>
+  </g>
+  <path d="M1 12L13 1H212L226 28L212 55H1Z" fill="#e23636"/>
+  <path d="M1 12L13 1H212L226 28L212 55H1Z" fill="none" stroke="#1f4fd8" stroke-width="3" stroke-dasharray="6 6"/>
+  <circle cx="24" cy="28" r="5" fill="#fff"><animate attributeName="opacity" values="1;.2;1" dur="1s" repeatCount="indefinite"/></circle>
+  <text class="tag" x="38" y="33">LIVE FROM THE CITY</text>
+</svg>

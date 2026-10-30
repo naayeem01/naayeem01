@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="01 SELECTED WORK">
+  <style>
+    .num { font: 900 20px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #f4f6ff; }
+    .t { font: 800 22px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #f4f6ff; letter-spacing: 5px; }
+  </style>
+  <path d="M14.5 0.5H1199.5V49.5L1185.5 63.5H0.5V14.5Z" fill="#0a0f24" stroke="#3b82f6" stroke-opacity=".45"/>
+  <path d="M1 15L15 1H80L66 63H1Z" fill="#e23636"/>
+  <path d="M8 8l20 20M8 28l20-20M18 4v28M4 18h28" stroke="#fff" stroke-opacity=".25" stroke-width="1" transform="translate(4 14)"/>
+  <text class="num" x="40" y="40">01</text>
+  <text class="t" x="104" y="40">SELECTED WORK</text>
+  <path d="M408 30Q804 40 1180 30" fill="none" stroke="#ffffff" stroke-opacity=".4"/>
+  <g>
+    <animateMotion dur="9s" repeatCount="indefinite" keyPoints="0;1;0" keyTimes="0;.5;1" calcMode="linear" path="M408 30Q804 40 1180 30"/>
+    <g transform="translate(0 -10) scale(0.45)">
+      <path d="M-4 -7L-14 -16L-20 -24M-4 -4L-18 -8L-26 -4M-4 -1L-18 4L-26 12M-4 2L-14 12L-20 24M4 -7L14 -16L20 -24M4 -4L18 -8L26 -4M4 -1L18 4L26 12M4 2L14 12L20 24" fill="none" stroke="#05070f" stroke-width="2.4" stroke-linejoin="round"/>
+      <path d="M-4 -7L-14 -16L-20 -24M-4 -4L-18 -8L-26 -4M-4 -1L-18 4L-26 12M-4 2L-14 12L-20 24M4 -7L14 -16L20 -24M4 -4L18 -8L26 -4M4 -1L18 4L26 12M4 2L14 12L20 24" fill="none" stroke="#e23636" stroke-width=".8" stroke-opacity=".9"/>
+      <ellipse cx="0" cy="11" rx="8" ry="11" fill="#05070f" stroke="#e23636" stroke-width="1.2"/>
+      <circle cx="0" cy="-5" r="6" fill="#05070f" stroke="#e23636" stroke-width="1.2"/>
+      <circle cx="-2" cy="-6" r="1.2" fill="#e23636"/><circle cx="2" cy="-6" r="1.2" fill="#e23636"/>
+    </g>
+  </g>
+</svg>
