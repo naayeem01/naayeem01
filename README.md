@@ -1,113 +1,237 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NIEM%20MANDOL&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<a href="https://hellonayeem.com">
+  <img src="./assets/banner.svg" width="100%" alt="Niem Mandol — Founder & CTO at TNXBD IT SOLUTION"/>
+</a>
 
-<!-- Typing Animation -->
 <a href="https://github.com/naayeem01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%9A%80+Founder+%26+CTO+at+TNXBD+IT+SOLUTION;💡+Building+Enterprise+Software+That+Scales;☁️+Cloud%2C+Web%2C+AI%2FML+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=%F0%9F%9A%80+Founder+%26+CTO+%40+TNXBD+IT+SOLUTION;%F0%9F%8F%97%EF%B8%8F+Enterprise+Web+Apps+%E2%80%A2+SaaS+%E2%80%A2+ERP+%2F+HRMS;%E2%98%81%EF%B8%8F+Cloud+Architecture+%26+DevOps+on+AWS+%2F+Azure;%F0%9F%A4%96+Exploring+AI%2FML+for+intelligent+enterprise+tools;%F0%9F%93%AC+Open+to+projects+%E2%80%94+let's+build+something!" alt="Typing SVG"/>
 </a>
 
-<br/>
-
-<!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=naayeem01&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/naayeem01?tab=followers">
-  <img src="https://img.shields.io/github/followers/naayeem01?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers"/>
-</a>
+<p>
+  <a href="https://hellonayeem.com"><img src="https://img.shields.io/badge/Website-hellonayeem.com-a371f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:info@tnxbd.com"><img src="https://img.shields.io/badge/Hire_Us-info@tnxbd.com-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/naayeem01?tab=followers"><img src="https://img.shields.io/github/followers/naayeem01?label=Followers&style=for-the-badge&color=58a6ff&logo=github" alt="Followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=naayeem01&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ```typescript
 const niemMandol = {
-  role:       "Founder & CTO @ TNXBD IT SOLUTION",
-  location:   "Mirpur, Dhaka 🇧🇩",
-  focus:      ["Enterprise Web Apps", "Cloud Architecture", "Team Leadership"],
-  passion:    "Turning complex business problems into elegant technical solutions",
+  role:     "Founder & CTO @ TNXBD IT SOLUTION",
+  location: "Mirpur, Dhaka 🇧🇩",
+  focus:    ["Enterprise Web Apps", "Cloud Architecture", "Team Leadership"],
+  passion:  "Turning complex business problems into elegant technical solutions",
   contact: {
-    email:  "info@tnxbd.com",
-    phone:  "01884444299",
+    email:   "info@tnxbd.com",
+    phone:   "+880 1884-444299",
+    website: "hellonayeem.com",
   },
-  currentlyExploring: "AI/ML Integration for intelligent enterprise solutions 🤖",
+  currentlyExploring: "AI/ML integration for intelligent enterprise solutions 🤖",
 };
 ```
 
-> 🏢 I lead **TNXBD IT SOLUTION** — a premier software development agency delivering enterprise-grade, production-ready applications for Fortune 500 and mid-market clients worldwide.
+</td>
+<td width="42%" valign="top">
 
----
+🏢 I lead **TNXBD IT SOLUTION** — a software development agency delivering enterprise-grade, production-ready applications for clients worldwide.
+
+- ⚡ **5+ years** shipping full-stack products
+- 🧩 Architect of SaaS, ERP & HRMS platforms
+- ☁️ Cloud-native on **AWS / Azure**
+- 🔐 Security-first, NDA-bound client work
+- 🌱 Currently learning: **LLM agents & MLOps**
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,nestjs,express,python,fastapi,django,php,laravel,cs,graphql&perline=15&theme=dark" alt="Core stack"/>
+</div>
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,redux,jest,webpack,vite&perline=10" />
+<details open>
+<summary><b>🎨 Frontend</b> — click to collapse</summary>
+<br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,redux,jest,webpack,vite&perline=10" /></p>
+</details>
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,flask,graphql&perline=10" />
+<details>
+<summary><b>⚙️ Backend</b> — click to expand</summary>
+<br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,flask,php,laravel,graphql&perline=10" /></p>
+</details>
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=10" />
+<details>
+<summary><b>🗄️ Databases</b> — click to expand</summary>
+<br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase&perline=10" /></p>
+</details>
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,jenkins,terraform,nginx&perline=10" />
+<details>
+<summary><b>☁️ Cloud & DevOps</b> — click to expand</summary>
+<br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,jenkins,terraform,nginx,linux,vercel&perline=10" /></p>
+</details>
 
-### 🔧 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&perline=10" />
+<details>
+<summary><b>🔧 Tools</b> — click to expand</summary>
+<br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=10" /></p>
+</details>
+
+<details>
+<summary><b>💼 Core Expertise</b> — click to expand</summary>
+<br/>
+
+| Skill | Area | Proficiency |
+|:--|:--|:--|
+| Git & GitHub | Version Control | `███████████████████░` 99% |
+| RESTful API Design | Integration | `███████████████████░` 98% |
+| System Architecture | Design | `███████████████████░` 97% |
+| AWS / Azure | Cloud | `███████████████████░` 96% |
+| PostgreSQL / MongoDB | Databases | `███████████████████░` 96% |
+| React.js / Next.js | Frontend | `███████████████████░` 95% |
+| Node.js / NestJS | Backend | `███████████████████░` 95% |
+| CI/CD Pipelines | DevOps | `██████████████████░░` 94% |
+
+</details>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [🔗 ShortLink](https://github.com/naayeem01/ShortLink)
+Premium URL shortener with glassmorphism UI, real-time click analytics and a Supabase-auth admin dashboard.
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=nextdotjs)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+[![Live](https://img.shields.io/badge/▶_Live_Demo-58a6ff?style=flat-square)](https://short-link-eta-seven.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### [✂️ Trimly](https://github.com/naayeem01/Trimly)
+Self-hosted URL shortener with click analytics, QR codes and a token-authenticated JSON API.
+
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🖐️ ZKTeco ADMS Manager](https://github.com/naayeem01/Zkteco-Link-DSK)
+Desktop app for ZKTeco biometric devices — ADMS push server, employee management, attendance logs and live monitoring.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Desktop](https://img.shields.io/badge/Desktop_App-30363d?style=flat-square&logo=windows&logoColor=white)
+![IoT](https://img.shields.io/badge/Biometrics-a371f7?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [🏥 MediSlot](https://github.com/naayeem01/MediSlot)
+Healthcare appointment & slot-booking web app built on the Next.js App Router.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+[![Live](https://img.shields.io/badge/▶_Live_Demo-58a6ff?style=flat-square)](https://medi-slot-six.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🌐 TNXBD Website](https://github.com/naayeem01/Website-tnxbd)
+The company site for TNXBD IT SOLUTION — fast React + Vite + TypeScript build.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+[![Live](https://img.shields.io/badge/▶_Live_Demo-58a6ff?style=flat-square)](https://website-tnxbd.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### [🔒 Client Work](mailto:info@tnxbd.com)
+Most of my work lives in private repos under NDA — ERP, HRMS, fintech and e-commerce platforms for enterprise clients.
+
+![NDA](https://img.shields.io/badge/Private_Repos-NDA-ff6b9d?style=flat-square&logo=github)
+[![Contact](https://img.shields.io/badge/Ask_for_a_case_study-58a6ff?style=flat-square&logo=gmail&logoColor=white)](mailto:info@tnxbd.com)
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%" alt="Profile details"/>
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats"/>
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time"/>
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=naayeem01&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b9d&currStreakLabel=58a6ff"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=naayeem01&theme=default&hide_border=true&ring=0969da&fire=d6336c&currStreakLabel=0969da"/>
+  <img src="https://streak-stats.demolab.com?user=naayeem01&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak"/>
+</picture>
 
 </div>
 
----
-
-## 📊 GitHub Statistics
+### 🏙️ Contribution Skyline
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-rho.vercel.app/api?username=naayeem01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=naayeem01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblue.svg"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+</picture>
 </div>
 
+### 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=naayeem01&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naayeem01/naayeem01/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naayeem01/naayeem01/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/naayeem01/naayeem01/output/github-snake-dark.svg" width="100%" alt="Snake eating my contributions"/>
+</picture>
 </div>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
-## 🏆 GitHub Trophies
+## 🧭 What I Build
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=naayeem01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
-</div>
-
----
-
-## 💼 Core Expertise
-
-<div align="center">
-
-| 🎯 Domain | 🔧 Skill | 📈 Level |
-|-----------|---------|----------|
-| React.js | Frontend | `████████████████████` 95% |
-| Node.js / NestJS | Backend | `████████████████████` 95% |
-| AWS / Azure | Cloud | `████████████████████` 96% |
-| PostgreSQL / MongoDB | Databases | `████████████████████` 96% |
-| System Architecture | Design | `████████████████████` 97% |
-| CI/CD Pipelines | DevOps | `████████████████████` 94% |
-| RESTful API Design | Integration | `████████████████████` 98% |
-| Git & GitHub | Version Control | `████████████████████` 99% |
-
-</div>
-
----
-
-## 🚀 What I Build
-
-<div align="center">
+<details>
+<summary><b>🛒 E-Commerce · ☁️ SaaS · 📊 Analytics · 🏢 Enterprise · 🔌 APIs · 📱 Web Apps</b> — click to expand</summary>
+<br/>
 
 | 🛒 E-Commerce | ☁️ SaaS Platforms | 📊 Analytics |
 |:---:|:---:|:---:|
@@ -118,88 +242,45 @@ const niemMandol = {
 | 🏢 Enterprise Systems | 🔌 API & Integrations | 📱 Web Apps |
 |:---:|:---:|:---:|
 | ERP / HRMS modules | RESTful & GraphQL APIs | Progressive Web Apps |
-| Supply chain tools | Legacy system migration | SPAs & responsive UI |
+| Supply chain & biometrics | Legacy system migration | SPAs & responsive UI |
 | Financial management | Data sync services | Mobile-first solutions |
 
-</div>
+</details>
 
----
+<details>
+<summary><b>🌍 Industries Served</b> — click to expand</summary>
+<br/>
+<p align="center">
 
-## 📈 Contribution Activity
+`💰 Financial Services` `🛍️ E-Commerce & Retail` `🏥 Healthcare` `🏭 Manufacturing`
+`🏠 Real Estate` `🎓 EdTech` `📡 Telecommunications` `🏛️ Government`
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naayeem01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff" width="95%" alt="Contribution Activity Graph"/>
-  <br/>
-  <sub>Activity graph unavailable? Open the image directly: https://github-readme-activity-graph.vercel.app/graph?username=naayeem01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff</sub>
-</div>
+</p>
+</details>
 
----
-
-## 🌍 Industries Served
-
-<div align="center">
-
-`💰 Financial Services` &nbsp; `🛍️ E-Commerce & Retail` &nbsp; `🏥 Healthcare` &nbsp; `🏭 Manufacturing`
-
-`🏠 Real Estate` &nbsp; `🎓 EdTech` &nbsp; `📡 Telecommunications` &nbsp; `🏛️ Government`
-
-</div>
-
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-info@tnxbd.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tnxbd.com)
-&nbsp;
-[![Phone](https://img.shields.io/badge/Phone-01884444299-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801884444299)
-&nbsp;
-[![Location](https://img.shields.io/badge/Location-Mirpur%2C%20Dhaka%20🇧🇩-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Mirpur+Dhaka+Bangladesh)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+880_1884--444299-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801884444299)
+[![Website](https://img.shields.io/badge/Website-hellonayeem.com-a371f7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hellonayeem.com)
 <br/>
-
+[![Company](https://img.shields.io/badge/Company-TNXBD_IT_SOLUTION-ff6b9d?style=for-the-badge&logo=briefcase&logoColor=white)](https://website-tnxbd.vercel.app)
+[![Location](https://img.shields.io/badge/Mirpur,_Dhaka-🇧🇩-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Mirpur+Dhaka+Bangladesh)
 [![GitHub](https://img.shields.io/badge/GitHub-naayeem01-181717?style=for-the-badge&logo=github)](https://github.com/naayeem01)
-&nbsp;
-[![Company](https://img.shields.io/badge/Company-TNXBD%20IT%20SOLUTION-ff6b6b?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:info@tnxbd.com)
 
-</div>
-
----
-
-## 💡 Philosophy
-
-<div align="center">
+<br/><br/>
 
 > *"Select the optimal technology for each specific problem — not the trendiest one."*
->
-> **Mission:** Deliver exceptional software solutions that solve complex business problems and drive measurable value.
->
-> **Vision:** Be the trusted technology partner for enterprises seeking scalable, innovative, and secure custom software.
 
-</div>
-
----
-
-<div align="center">
-
-### 📊 Quick Stats
-
-![Commits](https://img.shields.io/badge/2026%20Commits-683%2B-58a6ff?style=flat-square&logo=git)
-&nbsp;
-![Repos](https://img.shields.io/badge/Public%20Repos-6%2B-58a6ff?style=flat-square&logo=github)
-&nbsp;
-![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-58a6ff?style=flat-square&logo=dev.to)
-&nbsp;
-![Stack](https://img.shields.io/badge/Stack-Full%20Stack-58a6ff?style=flat-square&logo=stackshare)
+**Mission** — Deliver exceptional software that solves complex business problems and drives measurable value.<br/>
+**Vision** — Be the trusted technology partner for enterprises seeking scalable, innovative, and secure custom software.
 
 <br/>
 
-> ⚠️ *Most work lives in private repos under NDA — client confidentiality first.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90+Star+a+repo+if+you+like+it;%C2%A9+2026+TNXBD+IT+SOLUTION+%E2%80%94+Delivering+Excellence" alt="footer"/>
 
 </div>
-
----
-*Last Updated: April 2026 · © TNXBD IT SOLUTION — Delivering Excellence in Custom Software Development*

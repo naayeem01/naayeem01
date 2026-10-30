@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Niem Mandol — Founder &amp; CTO, TNXBD IT SOLUTION">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f1e"/>
+      <stop offset="55%" stop-color="#111a3a"/>
+      <stop offset="100%" stop-color="#1a0f2e"/>
+    </linearGradient>
+    <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff">
+        <animate attributeName="stop-color" values="#58a6ff;#a371f7;#ff6b9d;#58a6ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#a371f7">
+        <animate attributeName="stop-color" values="#a371f7;#ff6b9d;#58a6ff;#a371f7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff6b9d">
+        <animate attributeName="stop-color" values="#ff6b9d;#58a6ff;#a371f7;#ff6b9d" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="orbA"><stop offset="0%" stop-color="#58a6ff" stop-opacity=".55"/><stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbB"><stop offset="0%" stop-color="#a371f7" stop-opacity=".5"/><stop offset="100%" stop-color="#a371f7" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbC"><stop offset="0%" stop-color="#ff6b9d" stop-opacity=".4"/><stop offset="100%" stop-color="#ff6b9d" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#58a6ff" stroke-opacity=".07"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="320" rx="22"/></clipPath>
+    <style>
+      .title { font: 800 74px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 4px; }
+      .sub   { font: 600 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c9d1d9; letter-spacing: 3px; }
+      .tag   { font: 600 15px 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; fill: #8b949e; letter-spacing: 1px; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .scan { animation: scan 6s linear infinite; }
+      @keyframes scan { from { transform: translateX(-300px); } to { transform: translateX(1500px); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+
+    <circle cx="180" cy="60" r="200" fill="url(#orbA)">
+      <animate attributeName="cx" values="180;260;180" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="60;110;60" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1030" cy="250" r="220" fill="url(#orbB)">
+      <animate attributeName="cx" values="1030;940;1030" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="640" cy="330" r="180" fill="url(#orbC)">
+      <animate attributeName="cy" values="330;280;330" dur="10s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- floating code glyphs -->
+    <g class="tag" opacity=".35">
+      <text x="70" y="270">&lt;/&gt;
+        <animate attributeName="y" values="270;250;270" dur="6s" repeatCount="indefinite"/></text>
+      <text x="1080" y="70">{ }
+        <animate attributeName="y" values="70;90;70" dur="7s" repeatCount="indefinite"/></text>
+      <text x="1100" y="200">=&gt;
+        <animate attributeName="y" values="200;185;200" dur="5s" repeatCount="indefinite"/></text>
+      <text x="95" y="120">npm run build
+        <animate attributeName="opacity" values=".2;.8;.2" dur="4s" repeatCount="indefinite"/></text>
+    </g>
+
+    <rect class="scan" x="0" y="0" width="160" height="320" fill="#ffffff" opacity=".03" transform="skewX(-20)"/>
+
+    <text class="title" x="600" y="150" text-anchor="middle" fill="url(#text)">NIEM MANDOL</text>
+    <text class="sub" x="600" y="198" text-anchor="middle">FOUNDER &amp; CTO  ·  TNXBD IT SOLUTION</text>
+    <g>
+      <text class="tag" x="600" y="244" text-anchor="middle">$ building enterprise software that scales<tspan class="cursor" fill="#58a6ff"> ▌</tspan></text>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="318" rx="21" fill="none" stroke="url(#text)" stroke-opacity=".5" stroke-width="2"/>
+  </g>
+</svg>
