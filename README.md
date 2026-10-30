@@ -67,44 +67,26 @@ I like boring, reliable technology, clear code and shipping things people actual
 
 ### Toolbox
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,laravel,python,postgres,mongodb,aws,docker,githubactions&perline=12&theme=dark">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,laravel,python,postgres,mongodb,aws,docker,githubactions&perline=12&theme=light" alt="ts, react, nextjs, nodejs, nestjs, laravel, python, postgres, mongodb, aws, docker, githubactions">
-</picture>
+<img src="https://skillicons.dev/icons?theme=dark&perline=12&i=ts,react,nextjs,nodejs,nestjs,laravel,python,postgres,mongodb,aws,docker,githubactions" alt="ts, react, nextjs, nodejs, nestjs, laravel, python, postgres, mongodb, aws, docker, githubactions">
 
 <details>
 <summary><b>Full toolbox</b> <sub>(click to open)</sub></summary>
 <br>
 
 **Frontend**<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,redux,vite,jest&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,redux,vite,jest&perline=10&theme=light" alt="react, nextjs, ts, js, tailwind, html, css, redux, vite, jest">
-</picture>
+<img src="https://skillicons.dev/icons?theme=dark&perline=10&i=react,nextjs,ts,js,tailwind,html,css,redux,vite,jest" alt="react, nextjs, ts, js, tailwind, html, css, redux, vite, jest">
 
 **Backend**<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,flask,php,laravel,graphql&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,flask,php,laravel,graphql&perline=10&theme=light" alt="nodejs, express, nestjs, python, fastapi, django, flask, php, laravel, graphql">
-</picture>
+<img src="https://skillicons.dev/icons?theme=dark&perline=10&i=nodejs,express,nestjs,python,fastapi,django,flask,php,laravel,graphql" alt="nodejs, express, nestjs, python, fastapi, django, flask, php, laravel, graphql">
 
 **Data**<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase&perline=10&theme=light" alt="postgres, mysql, mongodb, redis, supabase, firebase">
-</picture>
+<img src="https://skillicons.dev/icons?theme=dark&perline=10&i=postgres,mysql,mongodb,redis,supabase,firebase" alt="postgres, mysql, mongodb, redis, supabase, firebase">
 
 **Cloud & DevOps**<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,jenkins,terraform,nginx,linux,vercel&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,jenkins,terraform,nginx,linux,vercel&perline=10&theme=light" alt="aws, azure, docker, kubernetes, githubactions, jenkins, terraform, nginx, linux, vercel">
-</picture>
+<img src="https://skillicons.dev/icons?theme=dark&perline=10&i=aws,azure,docker,kubernetes,githubactions,jenkins,terraform,nginx,linux,vercel" alt="aws, azure, docker, kubernetes, githubactions, jenkins, terraform, nginx, linux, vercel">
 
 **Everyday tools**<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=10&theme=light" alt="git, github, vscode, postman, figma">
-</picture>
+<img src="https://skillicons.dev/icons?theme=dark&perline=10&i=git,github,vscode,postman,figma" alt="git, github, vscode, postman, figma">
 
 </details>
 
