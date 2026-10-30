@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="TNXBD Website: The home of my company, TNXBD IT Solution.">
+  <style>
+    .num { font: 400 15px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #c2410c; }
+    .name { font: 400 34px Georgia, 'Times New Roman', Times, serif; fill: #1f2328; }
+    .desc { font: 400 17px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7781; }
+    .stack { font: 400 14px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #6e7781; }
+    .arrow { font: 400 30px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c2410c; }
+  </style>
+  <rect width="1200" height="112" fill="#f6f4ef"/>
+  <text class="num" x="24" y="50">05</text>
+  <text class="name" x="84" y="54">TNXBD Website</text>
+  <text class="desc" x="84" y="86">The home of my company, TNXBD IT Solution.</text>
+  <text class="stack" x="1110" y="50" text-anchor="end">React · Vite · TypeScript</text>
+  <text class="arrow" x="1170" y="54" text-anchor="end">↗</text>
+  <line x1="0" y1="111.5" x2="1200" y2="111.5" stroke="#d8d4ca"/>
+</svg>
