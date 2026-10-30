@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="TypeScript, React, Next.js, Node.js, NestJS, Laravel, Python, PostgreSQL, MongoDB, Redis, AWS, Docker, GraphQL, Tailwind">
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".08" stop-color="#fff"/>
+      <stop offset=".92" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="edges"><rect width="1200" height="64" fill="url(#fade)"/></mask>
+  </defs>
+  <style>
+    text { font: italic 400 24px Georgia, 'Times New Roman', Times, serif; fill: #e6edf3; }
+    .dot { fill: #f0883e; font-style: normal; font-size: 16px; }
+  </style>
+  <line x1="0" y1="0.5" x2="1200" y2="0.5" stroke="#30363d"/>
+  <line x1="0" y1="63.5" x2="1200" y2="63.5" stroke="#30363d"/>
+  <g mask="url(#edges)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-1600 0" dur="34s" repeatCount="indefinite"/>
+      <text x="0" y="41" textLength="1600" lengthAdjust="spacing"><tspan>TypeScript</tspan><tspan class="dot"> ✦ </tspan><tspan>React</tspan><tspan class="dot"> ✦ </tspan><tspan>Next.js</tspan><tspan class="dot"> ✦ </tspan><tspan>Node.js</tspan><tspan class="dot"> ✦ </tspan><tspan>NestJS</tspan><tspan class="dot"> ✦ </tspan><tspan>Laravel</tspan><tspan class="dot"> ✦ </tspan><tspan>Python</tspan><tspan class="dot"> ✦ </tspan><tspan>PostgreSQL</tspan><tspan class="dot"> ✦ </tspan><tspan>MongoDB</tspan><tspan class="dot"> ✦ </tspan><tspan>Redis</tspan><tspan class="dot"> ✦ </tspan><tspan>AWS</tspan><tspan class="dot"> ✦ </tspan><tspan>Docker</tspan><tspan class="dot"> ✦ </tspan><tspan>GraphQL</tspan><tspan class="dot"> ✦ </tspan><tspan>Tailwind</tspan><tspan class="dot"> ✦ </tspan></text>
+      <text x="1600" y="41" textLength="1600" lengthAdjust="spacing"><tspan>TypeScript</tspan><tspan class="dot"> ✦ </tspan><tspan>React</tspan><tspan class="dot"> ✦ </tspan><tspan>Next.js</tspan><tspan class="dot"> ✦ </tspan><tspan>Node.js</tspan><tspan class="dot"> ✦ </tspan><tspan>NestJS</tspan><tspan class="dot"> ✦ </tspan><tspan>Laravel</tspan><tspan class="dot"> ✦ </tspan><tspan>Python</tspan><tspan class="dot"> ✦ </tspan><tspan>PostgreSQL</tspan><tspan class="dot"> ✦ </tspan><tspan>MongoDB</tspan><tspan class="dot"> ✦ </tspan><tspan>Redis</tspan><tspan class="dot"> ✦ </tspan><tspan>AWS</tspan><tspan class="dot"> ✦ </tspan><tspan>Docker</tspan><tspan class="dot"> ✦ </tspan><tspan>GraphQL</tspan><tspan class="dot"> ✦ </tspan><tspan>Tailwind</tspan><tspan class="dot"> ✦ </tspan></text>
+    </g>
+  </g>
+</svg>

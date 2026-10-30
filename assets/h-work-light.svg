@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-label="01. Selected work">
+  <style>
+    .num { font: 400 15px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #c2410c; }
+    .title { font: 400 34px Georgia, 'Times New Roman', Times, serif; fill: #1f2328; }
+  </style>
+  <text class="num" x="2" y="46">01</text>
+  <text class="title" x="40" y="48">Selected work</text>
+  <line x1="345" y1="40" x2="1198" y2="40" stroke="#d8d4ca"/>
+  <circle cx="345" cy="40" r="3" fill="#c2410c">
+    <animate attributeName="cx" values="345;1194;345" dur="9s" calcMode="spline" keySplines=".7 0 .3 1;.7 0 .3 1" repeatCount="indefinite"/>
+  </circle>
+</svg>

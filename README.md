@@ -23,7 +23,10 @@ I like boring, reliable technology, clear code and shipping things people actual
   <img src="./assets/rule-light.svg" width="100%" alt="">
 </picture>
 
-### Selected work
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-work-dark.svg">
+  <img src="./assets/h-work-light.svg" width="100%" alt="Selected work">
+</picture>
 
 <sub>Click any row to open the repo.</sub>
 
@@ -60,12 +63,17 @@ I like boring, reliable technology, clear code and shipping things people actual
 
 <sub>Most of my client work (ERP, HRMS, fintech, e-commerce) lives in private repos under NDA. <a href="mailto:info@tnxbd.com">Ask me for a case study.</a></sub>
 
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
-  <img src="./assets/rule-light.svg" width="100%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-toolbox-dark.svg">
+  <img src="./assets/h-toolbox-light.svg" width="100%" alt="Toolbox">
 </picture>
 
-### Toolbox
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ticker-dark.svg">
+  <img src="./assets/ticker-light.svg" width="100%" alt="Technologies I work with">
+</picture>
 
 <img src="https://skillicons.dev/icons?theme=dark&perline=12&i=ts,react,nextjs,nodejs,nestjs,laravel,python,postgres,mongodb,aws,docker,githubactions" alt="ts, react, nextjs, nodejs, nestjs, laravel, python, postgres, mongodb, aws, docker, githubactions">
 
@@ -127,12 +135,12 @@ Financial services · Retail · Healthcare · Manufacturing · Real estate · Ed
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
-  <img src="./assets/rule-light.svg" width="100%" alt="">
-</picture>
+<br>
 
-### On GitHub
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-github-dark.svg">
+  <img src="./assets/h-github-light.svg" width="100%" alt="On GitHub">
+</picture>
 
 <p>
 <picture>
@@ -181,27 +189,40 @@ Financial services · Retail · Healthcare · Manufacturing · Real estate · Ed
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
-  <img src="./assets/rule-light.svg" width="100%" alt="">
-</picture>
+<br>
 
-### What I believe
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-believe-dark.svg">
+  <img src="./assets/h-believe-light.svg" width="100%" alt="What I believe">
+</picture>
 
 > Pick the right tool for the problem, not the trendiest one.
 
 I want to build software that solves real business problems and keeps paying off for years. I'd like TNXBD to be the partner companies trust when the work has to be scalable, secure and done properly.
 
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
-  <img src="./assets/rule-light.svg" width="100%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-hello-dark.svg">
+  <img src="./assets/h-hello-light.svg" width="100%" alt="Say hello">
 </picture>
 
 <p>
-<a href="mailto:info@tnxbd.com">Email</a> ·
-<a href="https://wa.me/8801884444299">WhatsApp</a> ·
-<a href="https://hellonayeem.com">Website</a> ·
+Have a project in mind, or just want to talk shop? I reply to every message.
+</p>
+
+<p>
+<a href="mailto:info@tnxbd.com"><b>info@tnxbd.com</b></a> &nbsp;·&nbsp;
+<a href="https://wa.me/8801884444299">WhatsApp</a> &nbsp;·&nbsp;
+<a href="https://hellonayeem.com">hellonayeem.com</a> &nbsp;·&nbsp;
 <a href="https://website-tnxbd.vercel.app">TNXBD IT Solution</a>
 </p>
 
-<sub><i>— Niem, Dhaka</i> &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=naayeem01&label=visitors&color=c2410c&style=flat-square" alt="visitors" align="center"></sub>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/signoff-dark.svg">
+  <img src="./assets/signoff-light.svg" width="100%" alt="Thanks for stopping by. — Niem">
+</picture>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=naayeem01&label=visitors&color=c2410c&style=flat-square" alt="visitors"></p>
