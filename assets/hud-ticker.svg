@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="TYPESCRIPT, REACT, NEXT.JS, NODE.JS, NESTJS, LARAVEL, PYTHON, POSTGRESQL, MONGODB, REDIS, AWS, DOCKER, GRAPHQL, TAILWIND">
+  <defs><clipPath id="c"><rect x="170" y="0" width="1030" height="56"/></clipPath></defs>
+  <style>
+    .t { font: 700 17px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #5ce1ff; letter-spacing: 2px; }
+    .sep { fill: #f2b632; }
+    .tag { font: 800 13px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #050b14; letter-spacing: 2px; }
+  </style>
+  <path d="M12.5 0.5H1199.5V43.5L1187.5 55.5H0.5V12.5Z" fill="#050b14" stroke="#5ce1ff" stroke-opacity=".4"/>
+  <g clip-path="url(#c)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-1800 0" dur="40s" repeatCount="indefinite"/>
+      <text class="t" x="180" y="34" textLength="1800" lengthAdjust="spacing"><tspan>TYPESCRIPT</tspan><tspan class="sep">  //  </tspan><tspan>REACT</tspan><tspan class="sep">  //  </tspan><tspan>NEXT.JS</tspan><tspan class="sep">  //  </tspan><tspan>NODE.JS</tspan><tspan class="sep">  //  </tspan><tspan>NESTJS</tspan><tspan class="sep">  //  </tspan><tspan>LARAVEL</tspan><tspan class="sep">  //  </tspan><tspan>PYTHON</tspan><tspan class="sep">  //  </tspan><tspan>POSTGRESQL</tspan><tspan class="sep">  //  </tspan><tspan>MONGODB</tspan><tspan class="sep">  //  </tspan><tspan>REDIS</tspan><tspan class="sep">  //  </tspan><tspan>AWS</tspan><tspan class="sep">  //  </tspan><tspan>DOCKER</tspan><tspan class="sep">  //  </tspan><tspan>GRAPHQL</tspan><tspan class="sep">  //  </tspan><tspan>TAILWIND</tspan><tspan class="sep">  //  </tspan></text>
+      <text class="t" x="1980" y="34" textLength="1800" lengthAdjust="spacing"><tspan>TYPESCRIPT</tspan><tspan class="sep">  //  </tspan><tspan>REACT</tspan><tspan class="sep">  //  </tspan><tspan>NEXT.JS</tspan><tspan class="sep">  //  </tspan><tspan>NODE.JS</tspan><tspan class="sep">  //  </tspan><tspan>NESTJS</tspan><tspan class="sep">  //  </tspan><tspan>LARAVEL</tspan><tspan class="sep">  //  </tspan><tspan>PYTHON</tspan><tspan class="sep">  //  </tspan><tspan>POSTGRESQL</tspan><tspan class="sep">  //  </tspan><tspan>MONGODB</tspan><tspan class="sep">  //  </tspan><tspan>REDIS</tspan><tspan class="sep">  //  </tspan><tspan>AWS</tspan><tspan class="sep">  //  </tspan><tspan>DOCKER</tspan><tspan class="sep">  //  </tspan><tspan>GRAPHQL</tspan><tspan class="sep">  //  </tspan><tspan>TAILWIND</tspan><tspan class="sep">  //  </tspan></text>
+    </g>
+  </g>
+  <path d="M1 12L13 1H150L164 28L150 55H1Z" fill="#5ce1ff"/>
+  <circle cx="24" cy="28" r="5" fill="#e23a3a"><animate attributeName="opacity" values="1;.2;1" dur="1s" repeatCount="indefinite"/></circle>
+  <text class="tag" x="38" y="33">LIVE FEED</text>
+</svg>

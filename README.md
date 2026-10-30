@@ -1,84 +1,33 @@
-<a href="https://hellonayeem.com">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Niem Mandol — Founder & CTO, TNXBD IT Solution">
-</picture>
-</a>
+<a href="https://hellonayeem.com"><img src="./assets/hud-header.svg" width="100%" alt="Niem Mandol — Founder & CTO, TNXBD IT Solution"></a>
 
-<br>
+<p>
+Hi, I'm Niem. I run <a href="https://website-tnxbd.vercel.app"><b>TNXBD IT Solution</b></a>, a software studio in Mirpur, Dhaka.
+For five years I've been designing and building the systems businesses run on: ERPs, HR platforms, online stores and the APIs that tie them together.
+I like reliable technology, clear code and shipping things people actually use.
+</p>
 
-Hi, I'm Niem. I run **[TNXBD IT Solution](https://website-tnxbd.vercel.app)**, a small software studio in Mirpur, Dhaka. For the last five years I've been designing and building the systems businesses run on: ERPs, HR platforms, online stores and the APIs that tie them together.
+<img src="./assets/hud-h-work.svg" width="100%" alt="Selected work">
 
-I like boring, reliable technology, clear code and shipping things people actually use.
-
-<table>
-  <tr><td><sub>NOW</sub></td><td>Shipping ShortLink v2 and learning LLM agents</td></tr>
-  <tr><td><sub>STACK</sub></td><td>TypeScript · Node / NestJS · Laravel · Python · PostgreSQL · AWS</td></tr>
-  <tr><td><sub>BASED IN</sub></td><td>Mirpur, Dhaka, Bangladesh</td></tr>
-  <tr><td><sub>REACH ME</sub></td><td><a href="mailto:info@tnxbd.com">info@tnxbd.com</a> · <a href="https://wa.me/8801884444299">WhatsApp</a> · <a href="https://hellonayeem.com">hellonayeem.com</a></td></tr>
-</table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
-  <img src="./assets/rule-light.svg" width="100%" alt="">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-work-dark.svg">
-  <img src="./assets/h-work-light.svg" width="100%" alt="Selected work">
-</picture>
-
-<sub>Click any row to open the repo.</sub>
-
-<a href="https://github.com/naayeem01/ShortLink">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-shortlink-dark.svg">
-  <img src="./assets/work-shortlink-light.svg" width="100%" alt="ShortLink">
-</picture>
-</a>
-<a href="https://github.com/naayeem01/Trimly">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-trimly-dark.svg">
-  <img src="./assets/work-trimly-light.svg" width="100%" alt="Trimly">
-</picture>
-</a>
-<a href="https://github.com/naayeem01/Zkteco-Link-DSK">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-zkteco-dark.svg">
-  <img src="./assets/work-zkteco-light.svg" width="100%" alt="Zkteco-Link-DSK">
-</picture>
-</a>
-<a href="https://github.com/naayeem01/MediSlot">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-medislot-dark.svg">
-  <img src="./assets/work-medislot-light.svg" width="100%" alt="MediSlot">
-</picture>
-</a>
-<a href="https://github.com/naayeem01/Website-tnxbd">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-tnxbd-dark.svg">
-  <img src="./assets/work-tnxbd-light.svg" width="100%" alt="Website-tnxbd">
-</picture>
-</a>
+<a href="https://github.com/naayeem01/ShortLink"><img src="./assets/hud-work-shortlink.svg" width="100%" alt="ShortLink"></a>
+<a href="https://github.com/naayeem01/Trimly"><img src="./assets/hud-work-trimly.svg" width="100%" alt="Trimly"></a>
+<a href="https://github.com/naayeem01/Zkteco-Link-DSK"><img src="./assets/hud-work-zkteco.svg" width="100%" alt="Zkteco-Link-DSK"></a>
+<a href="https://github.com/naayeem01/MediSlot"><img src="./assets/hud-work-medislot.svg" width="100%" alt="MediSlot"></a>
+<a href="https://github.com/naayeem01/Website-tnxbd"><img src="./assets/hud-work-tnxbd.svg" width="100%" alt="Website-tnxbd"></a>
 
 <sub>Most of my client work (ERP, HRMS, fintech, e-commerce) lives in private repos under NDA. <a href="mailto:info@tnxbd.com">Ask me for a case study.</a></sub>
 
-<br>
+<br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-toolbox-dark.svg">
-  <img src="./assets/h-toolbox-light.svg" width="100%" alt="Toolbox">
-</picture>
+<img src="./assets/hud-h-arsenal.svg" width="100%" alt="Arsenal">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/ticker-dark.svg">
-  <img src="./assets/ticker-light.svg" width="100%" alt="Technologies I work with">
-</picture>
+<img src="./assets/hud-ticker.svg" width="100%" alt="Technologies I work with">
 
-<img src="https://skillicons.dev/icons?theme=dark&perline=12&i=ts,react,nextjs,nodejs,nestjs,laravel,python,postgres,mongodb,aws,docker,githubactions" alt="ts, react, nextjs, nodejs, nestjs, laravel, python, postgres, mongodb, aws, docker, githubactions">
+<p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=12&i=ts,react,nextjs,nodejs,nestjs,laravel,python,postgres,mongodb,aws,docker,githubactions" alt="ts, react, nextjs, nodejs, nestjs, laravel, python, postgres, mongodb, aws, docker, githubactions"></p>
+
+<img src="./assets/hud-skills.svg" width="100%" alt="Capability matrix">
 
 <details>
-<summary><b>Full toolbox</b> <sub>(click to open)</sub></summary>
+<summary><b>Open the full toolbox</b></summary>
 <br>
 
 **Frontend**<br>
@@ -99,28 +48,8 @@ I like boring, reliable technology, clear code and shipping things people actual
 </details>
 
 <details>
-<summary><b>How I'd rate myself</b> <sub>(click to open)</sub></summary>
+<summary><b>What I build, and for whom</b></summary>
 <br>
-
-| | |
-|:--|:--|
-| API design (REST, GraphQL) | `■■■■■■■■■□` |
-| System architecture | `■■■■■■■■■□` |
-| React / Next.js | `■■■■■■■■■□` |
-| Node.js / NestJS | `■■■■■■■■■□` |
-| PostgreSQL / MongoDB | `■■■■■■■■□□` |
-| AWS / Azure | `■■■■■■■■□□` |
-| CI/CD & Docker | `■■■■■■■■□□` |
-| Laravel / PHP | `■■■■■■■□□□` |
-| Machine learning | `■■■■□□□□□□` <sub>still learning</sub> |
-
-</details>
-
-<details>
-<summary><b>What I build, and for whom</b> <sub>(click to open)</sub></summary>
-<br>
-
-**Things I build**
 
 - **E-commerce:** storefronts, multi-vendor marketplaces, payment integrations
 - **SaaS:** multi-tenant apps with roles, subscriptions and third-party integrations
@@ -129,86 +58,51 @@ I like boring, reliable technology, clear code and shipping things people actual
 - **APIs:** REST and GraphQL services, legacy migrations, data sync
 - **Web apps:** SPAs and PWAs that work well on phones first
 
-**Industries I've worked with**
-
-Financial services · Retail · Healthcare · Manufacturing · Real estate · Education · Telecom · Government
+**Industries:** financial services · retail · healthcare · manufacturing · real estate · education · telecom · government
 
 </details>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-github-dark.svg">
-  <img src="./assets/h-github-light.svg" width="100%" alt="On GitHub">
-</picture>
+<img src="./assets/hud-h-telemetry.svg" width="100%" alt="Telemetry">
 
 <p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="profile details">
-</picture>
+<img src="./profile-summary-card-output/highcontrast/0-profile-details.svg" width="100%" alt="profile details">
 </p>
 
 <p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-  <img src="./profile-summary-card-output/github/3-stats.svg" width="49%" alt="stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
-  <img src="./profile-summary-card-output/github/4-productive-time.svg" width="49%" alt="productive time">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" width="49%" alt="repos per language">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="most commit language">
-</picture>
+<img src="./profile-summary-card-output/highcontrast/3-stats.svg" width="49%" alt="stats">
+<img src="./profile-summary-card-output/highcontrast/4-productive-time.svg" width="49%" alt="productive time">
+<img src="./profile-summary-card-output/highcontrast/1-repos-per-language.svg" width="49%" alt="repos per language">
+<img src="./profile-summary-card-output/highcontrast/2-most-commit-language.svg" width="49%" alt="most commit language">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=naayeem01&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=f0883e&fire=f0883e&currStreakLabel=f0883e&sideNums=e6edf3&currStreakNum=e6edf3&sideLabels=8b949e&dates=8b949e&stroke=30363d">
-  <img src="https://streak-stats.demolab.com?user=naayeem01&hide_border=true&date_format=j%20M%5B%20Y%5D&background=f6f4ef&ring=c2410c&fire=c2410c&currStreakLabel=c2410c&sideNums=1f2328&currStreakNum=1f2328&sideLabels=6e7781&dates=6e7781&stroke=d8d4ca" width="100%" alt="Contribution streak">
-</picture>
+<img src="https://streak-stats.demolab.com?user=naayeem01&hide_border=true&date_format=j%20M%5B%20Y%5D&background=050b14&ring=5ce1ff&fire=f2b632&currStreakLabel=f2b632&sideNums=e8f6ff&currStreakNum=e8f6ff&sideLabels=5ce1ff&dates=7f9bb0&stroke=1b6f8a" width="100%" alt="Contribution streak">
 
 <details open>
 <summary><b>Contribution graph</b> <sub>(public activity, refreshed daily)</sub></summary>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
-  <img src="./profile-3d-contrib/profile-season.svg" width="100%" alt="3D contribution graph">
-</picture>
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naayeem01/naayeem01/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/naayeem01/naayeem01/output/github-snake.svg" width="100%" alt="Snake eating the contribution grid">
-</picture>
+<img src="https://raw.githubusercontent.com/naayeem01/naayeem01/output/github-snake-dark.svg" width="100%" alt="Snake eating the contribution grid">
 
 </details>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-believe-dark.svg">
-  <img src="./assets/h-believe-light.svg" width="100%" alt="What I believe">
-</picture>
+<img src="./assets/hud-h-protocol.svg" width="100%" alt="Protocol">
 
 > Pick the right tool for the problem, not the trendiest one.
 
-I want to build software that solves real business problems and keeps paying off for years. I'd like TNXBD to be the partner companies trust when the work has to be scalable, secure and done properly.
+I want to build software that solves real business problems and keeps paying off for years, and I'd like TNXBD to be the partner companies trust when the work has to be scalable, secure and done properly.
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-hello-dark.svg">
-  <img src="./assets/h-hello-light.svg" width="100%" alt="Say hello">
-</picture>
+<img src="./assets/hud-h-comms.svg" width="100%" alt="Open channel">
 
 <p>
-Have a project in mind, or just want to talk shop? I reply to every message.
+Have a project in mind, or just want to talk shop? Send a message.
 </p>
 
 <p>
@@ -218,11 +112,6 @@ Have a project in mind, or just want to talk shop? I reply to every message.
 <a href="https://website-tnxbd.vercel.app">TNXBD IT Solution</a>
 </p>
 
-<br>
+<img src="./assets/hud-signoff.svg" width="100%" alt="End of transmission. Thanks for stopping by. — Niem">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/signoff-dark.svg">
-  <img src="./assets/signoff-light.svg" width="100%" alt="Thanks for stopping by. — Niem">
-</picture>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=naayeem01&label=visitors&color=c2410c&style=flat-square" alt="visitors"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=naayeem01&label=VISITORS&color=1b6f8a&style=flat-square" alt="visitors"></p>
