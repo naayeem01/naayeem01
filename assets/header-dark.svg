@@ -9,9 +9,9 @@
     .n0 { animation: c0 9s infinite; }
     .n1 { animation: c1 9s infinite; }
     .n2 { animation: c2 9s infinite; }
-    @keyframes c0 { 0%,30% { opacity: 1; } 34%,96% { opacity: 0; } 100% { opacity: 1; } }
-    @keyframes c1 { 0%,30% { opacity: 0; } 34%,63% { opacity: 1; } 67%,100% { opacity: 0; } }
-    @keyframes c2 { 0%,63% { opacity: 0; } 67%,96% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes c0 { 0%,31% { opacity: 1; } 32.5%,98.5% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes c1 { 0%,33.5% { opacity: 0; } 35%,64.5% { opacity: 1; } 66%,100% { opacity: 0; } }
+    @keyframes c2 { 0%,67% { opacity: 0; } 68.5%,97% { opacity: 1; } 98.5%,100% { opacity: 0; } }
     .caret { animation: blink 1.1s steps(1) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
   </style>
