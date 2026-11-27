@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="OushodCloud: pharmacy management software with POS, stock and expiry alerts, supplier purchases and multi-branch sync, online and offline.">
+  <defs>
+    <clipPath id="card"><rect width="1200" height="300" rx="14"/></clipPath>
+
+  </defs>
+  <style>
+    .f { font-family: 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .s { font-family: Georgia, 'Times New Roman', Times, serif; }
+    .fi { animation: fi .9s ease-out both; }
+    @keyframes fi { from { opacity: 0; transform: translateY(8px); } }
+    .on { animation: on 10s infinite; }
+    .off { opacity: 0; animation: off 10s infinite; }
+    .dim { animation: dim 10s infinite; }
+    @keyframes on { 0%, 45% { opacity: 1; } 50%, 95% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes off { 0%, 45% { opacity: 0; } 50%, 95% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes dim { 0%, 45% { opacity: 1; } 50%, 95% { opacity: .25; } 100% { opacity: 1; } }
+    .blink { animation: blink 1.6s ease-in-out infinite; }
+    @keyframes blink { 50% { opacity: .25; } }
+    .nudge { animation: nudge 2.4s ease-in-out infinite; }
+    @keyframes nudge { 0%, 60%, 100% { transform: translateX(0); } 75% { transform: translateX(6px); } }
+    .draw { stroke-dasharray: 1400; animation: draw 1.6s ease-out .3s both; }
+    @keyframes draw { from { stroke-dashoffset: 1400; } }
+    @media (prefers-color-scheme: dark) { .bg { fill: #F8FAFC; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+    .pr { animation: pr 8s ease-out infinite both; }
+    @keyframes pr { 0% { opacity: 0; transform: translateY(-6px); } 5%, 85% { opacity: 1; transform: none; } 95%, 100% { opacity: 0; } }
+    .low { opacity: 0; animation: low 8s infinite; }
+    @keyframes low { 0%, 38% { opacity: 0; } 42%, 62% { opacity: 1; } 66%, 100% { opacity: 0; } }
+  </style>
+  <rect class="bg" x=".5" y=".5" width="1199" height="299" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="52" cy="48" r="4" fill="#16A34A"/>
+  <text class="m" x="64" y="52" font-size="12" font-weight="700" fill="#475569" letter-spacing="2.5">PHARMACY MANAGEMENT</text>
+  <g class="fi"><text class="s" x="46" y="100" font-size="40" font-weight="400" fill="#0F172A">OushodCloud</text></g>
+  <g class="fi" style="animation-delay:0.15s"><text class="f" x="48" y="132" font-size="15" font-weight="400" fill="#475569">Point of sale, stock and expiry tracking for pharmacies,</text></g>
+  <g class="fi" style="animation-delay:0.23s"><text class="f" x="48" y="154" font-size="15" font-weight="400" fill="#475569">from a single shop to a chain of branches.</text></g>
+  <g class="fi" style="animation-delay:0.40s"><rect x="48" y="182" width="126" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="63" cy="196" r="3" fill="#16A34A"/><text class="f" x="73" y="201" font-size="13" font-weight="500" fill="#334155">POS &amp; billing</text></g>
+  <g class="fi" style="animation-delay:0.50s"><rect x="184" y="182" width="181" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="199" cy="196" r="3" fill="#16A34A"/><text class="f" x="209" y="201" font-size="13" font-weight="500" fill="#334155">Stock &amp; expiry alerts</text></g>
+  <g class="fi" style="animation-delay:0.60s"><rect x="48" y="218" width="167" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="63" cy="232" r="3" fill="#16A34A"/><text class="f" x="73" y="237" font-size="13" font-weight="500" fill="#334155">Supplier &amp; purchase</text></g>
+  <g class="fi" style="animation-delay:0.70s"><rect x="225" y="218" width="243" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="240" cy="232" r="3" fill="#16A34A"/><text class="f" x="250" y="237" font-size="13" font-weight="500" fill="#334155">Multi-branch, online &amp; offline</text></g>
+  <g class="nudge"><text class="f" x="48" y="266" font-size="13" font-weight="700" fill="#1E40AF" letter-spacing="1">Request a demo  →</text></g>
+  <rect x="560" y="24" width="608" height="252" rx="12" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <rect x="584" y="48" width="196" height="204" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text class="m" x="682" y="72" font-size="10" font-weight="700" fill="#0F172A" text-anchor="middle" letter-spacing="1.5">OUSHODCLOUD POS</text>
+  <text class="m" x="682" y="88" font-size="9.5" font-weight="500" fill="#64748B" text-anchor="middle">Invoice #20431</text>
+  <line x1="598" y1="100" x2="766" y2="100" stroke="#CBD5E1" stroke-dasharray="3 3"/>
+  <g class="pr" style="animation-delay:0.4s"><text class="m" x="598" y="122" font-size="10.5" font-weight="500" fill="#0F172A">Paracetamol x20</text><text class="m" x="766" y="122" font-size="10.5" font-weight="600" fill="#0F172A" text-anchor="end">24.00</text></g>
+  <g class="pr" style="animation-delay:1.0s"><text class="m" x="598" y="144" font-size="10.5" font-weight="500" fill="#0F172A">Omeprazole x10</text><text class="m" x="766" y="144" font-size="10.5" font-weight="600" fill="#0F172A" text-anchor="end">70.00</text></g>
+  <g class="pr" style="animation-delay:1.6s"><text class="m" x="598" y="166" font-size="10.5" font-weight="500" fill="#0F172A">Cetirizine x10</text><text class="m" x="766" y="166" font-size="10.5" font-weight="600" fill="#0F172A" text-anchor="end">30.00</text></g>
+  <g class="pr" style="animation-delay:2.2s"><text class="m" x="598" y="188" font-size="10.5" font-weight="500" fill="#0F172A">ORS sachet x5</text><text class="m" x="766" y="188" font-size="10.5" font-weight="600" fill="#0F172A" text-anchor="end">30.00</text></g>
+  <g class="pr" style="animation-delay:3s"><line x1="598" y1="206" x2="766" y2="206" stroke="#CBD5E1" stroke-dasharray="3 3"/><text class="m" x="598" y="226" font-size="11" font-weight="700" fill="#0F172A" letter-spacing="1">TOTAL</text><text class="m" x="766" y="226" font-size="11" font-weight="700" fill="#16A34A" text-anchor="end">Tk 154.00</text><text class="m" x="682" y="244" font-size="9" font-weight="600" fill="#64748B" text-anchor="middle" letter-spacing="1.5">PAID · THANK YOU</text></g>
+  <rect x="796" y="48" width="176" height="204" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text class="m" x="810" y="70" font-size="10" font-weight="700" fill="#64748B" letter-spacing="1.5">STOCK LEVEL</text>
+  <text class="f" x="810" y="96" font-size="12" font-weight="500" fill="#0F172A">Paracetamol</text>
+  <rect x="810" y="104" width="148" height="6" rx="3" fill="#F1F5F9"/>
+  <rect x="810" y="104" width="120" height="6" rx="3" fill="#16A34A"/>
+  <text class="f" x="810" y="138" font-size="12" font-weight="500" fill="#0F172A">Omeprazole</text>
+  <rect x="810" y="146" width="148" height="6" rx="3" fill="#F1F5F9"/>
+  <rect x="810" y="146" width="104" height="6" rx="3" fill="#16A34A"><animate attributeName="width" values="104;104;14;14;104;104" keyTimes="0;.15;.4;.6;.75;1" dur="8s" repeatCount="indefinite"/><animate attributeName="fill" values="#16A34A;#16A34A;#DC2626;#DC2626;#16A34A;#16A34A" keyTimes="0;.3;.4;.6;.7;1" dur="8s" repeatCount="indefinite"/></rect>
+  <g class="low"><rect x="918" y="126" width="40" height="16" rx="8" fill="#FEF2F2" stroke="#FECACA"/><text class="m" x="938" y="137" font-size="9" font-weight="700" fill="#DC2626" text-anchor="middle" letter-spacing="1">LOW</text></g>
+  <text class="f" x="810" y="180" font-size="12" font-weight="500" fill="#0F172A">Cetirizine</text>
+  <rect x="810" y="188" width="148" height="6" rx="3" fill="#F1F5F9"/>
+  <rect x="810" y="188" width="86" height="6" rx="3" fill="#16A34A"/>
+  <rect x="808" y="214" width="152" height="26" rx="6" fill="#FFFBEB" stroke="#FDE68A"/>
+  <circle cx="821" cy="227" r="3.5" fill="#D97706" class="blink"/>
+  <text class="f" x="831" y="231" font-size="11" font-weight="600" fill="#92400E">3 batches expiring soon</text>
+  <rect x="988" y="48" width="164" height="204" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text class="m" x="1002" y="70" font-size="10" font-weight="700" fill="#64748B" letter-spacing="1.5">BRANCHES</text>
+  <rect x="1002" y="81" width="14" height="12" rx="2" fill="#F0FDF4" stroke="#16A34A"/>
+  <text class="f" x="1024" y="92" font-size="12" font-weight="500" fill="#0F172A">Main branch</text>
+  <g class="on"><path d="M1124 87l3.5 3.5 7-7" fill="none" stroke="#16A34A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g class="off"><circle cx="1130" cy="88" r="3.5" fill="#D97706"/></g>
+  <rect x="1002" y="111" width="14" height="12" rx="2" fill="#F0FDF4" stroke="#16A34A"/>
+  <text class="f" x="1024" y="122" font-size="12" font-weight="500" fill="#0F172A">Mirpur</text>
+  <g class="on"><path d="M1124 117l3.5 3.5 7-7" fill="none" stroke="#16A34A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g class="off"><circle cx="1130" cy="118" r="3.5" fill="#D97706"/></g>
+  <rect x="1002" y="141" width="14" height="12" rx="2" fill="#F0FDF4" stroke="#16A34A"/>
+  <text class="f" x="1024" y="152" font-size="12" font-weight="500" fill="#0F172A">Uttara</text>
+  <g class="on"><path d="M1124 147l3.5 3.5 7-7" fill="none" stroke="#16A34A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g class="off"><circle cx="1130" cy="148" r="3.5" fill="#D97706"/></g>
+  <rect x="995" y="186" width="150" height="26" rx="13" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <g class="on"><circle cx="1010" cy="199" r="4" fill="#16A34A" class="blink"/><text class="m" x="1021" y="203" font-size="10" font-weight="700" fill="#166534" letter-spacing="1">ONLINE · SYNCED</text></g>
+  <g class="off"><circle cx="1010" cy="199" r="4" fill="#D97706"/><text class="m" x="1021" y="203" font-size="10" font-weight="700" fill="#92400E" letter-spacing="1">OFFLINE · SAVED</text></g>
+  <g class="on"><text class="f" x="1070" y="234" font-size="11" font-weight="500" fill="#475569" text-anchor="middle">All branches in sync</text></g>
+  <g class="off"><text class="f" x="1070" y="234" font-size="11" font-weight="600" fill="#92400E" text-anchor="middle">3 sales queued to sync</text></g>
+</svg>

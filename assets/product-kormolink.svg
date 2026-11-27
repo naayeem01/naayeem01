@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="KormoLink: HR, payroll and attendance software supporting fingerprint and face recognition devices, payslips and employee ID card printing.">
+  <defs>
+    <clipPath id="card"><rect width="1200" height="300" rx="14"/></clipPath>
+
+  </defs>
+  <style>
+    .f { font-family: 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .s { font-family: Georgia, 'Times New Roman', Times, serif; }
+    .fi { animation: fi .9s ease-out both; }
+    @keyframes fi { from { opacity: 0; transform: translateY(8px); } }
+    .on { animation: on 10s infinite; }
+    .off { opacity: 0; animation: off 10s infinite; }
+    .dim { animation: dim 10s infinite; }
+    @keyframes on { 0%, 45% { opacity: 1; } 50%, 95% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes off { 0%, 45% { opacity: 0; } 50%, 95% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes dim { 0%, 45% { opacity: 1; } 50%, 95% { opacity: .25; } 100% { opacity: 1; } }
+    .blink { animation: blink 1.6s ease-in-out infinite; }
+    @keyframes blink { 50% { opacity: .25; } }
+    .nudge { animation: nudge 2.4s ease-in-out infinite; }
+    @keyframes nudge { 0%, 60%, 100% { transform: translateX(0); } 75% { transform: translateX(6px); } }
+    .draw { stroke-dasharray: 1400; animation: draw 1.6s ease-out .3s both; }
+    @keyframes draw { from { stroke-dashoffset: 1400; } }
+    @media (prefers-color-scheme: dark) { .bg { fill: #F8FAFC; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+    .scan { animation: scan 2.4s ease-in-out infinite alternate; }
+    @keyframes scan { from { transform: translateY(0); } to { transform: translateY(56px); } }
+    .lock { transform-origin: 794px 112px; animation: lock 5s ease-out infinite; }
+    @keyframes lock { 0% { transform: scale(1.35); opacity: .2; } 30%, 85% { transform: scale(1); opacity: 1; } 100% { transform: scale(1); opacity: .2; } }
+    .match { animation: match 5s ease-out infinite; }
+    @keyframes match { 0%, 30% { opacity: 0; } 38%, 85% { opacity: 1; } 95%, 100% { opacity: 0; } }
+    .lg { animation: lg 10s ease-out infinite both; }
+    @keyframes lg { 0% { opacity: 0; transform: translateX(-6px); } 4%, 88% { opacity: 1; transform: none; } 96%, 100% { opacity: 0; } }
+    .idc { animation: idc 10s ease-out infinite; }
+    @keyframes idc { 0%, 20% { opacity: 0; transform: translateY(18px); } 30%, 88% { opacity: 1; transform: none; } 96%, 100% { opacity: 0; transform: translateY(0); } }
+  </style>
+  <rect class="bg" x=".5" y=".5" width="1199" height="299" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="52" cy="48" r="4" fill="#4F46E5"/>
+  <text class="m" x="64" y="52" font-size="12" font-weight="700" fill="#475569" letter-spacing="2.5">HR · PAYROLL · ATTENDANCE</text>
+  <g class="fi"><text class="s" x="46" y="100" font-size="40" font-weight="400" fill="#0F172A">KormoLink</text></g>
+  <g class="fi" style="animation-delay:0.15s"><text class="f" x="48" y="132" font-size="15" font-weight="400" fill="#475569">HR, attendance and payroll for growing teams. Pulls</text></g>
+  <g class="fi" style="animation-delay:0.23s"><text class="f" x="48" y="154" font-size="15" font-weight="400" fill="#475569">punches from fingerprint and face devices automatically.</text></g>
+  <g class="fi" style="animation-delay:0.40s"><rect x="48" y="182" width="167" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="63" cy="196" r="3" fill="#4F46E5"/><text class="f" x="73" y="201" font-size="13" font-weight="500" fill="#334155">Fingerprint devices</text></g>
+  <g class="fi" style="animation-delay:0.50s"><rect x="225" y="182" width="146" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="240" cy="196" r="3" fill="#4F46E5"/><text class="f" x="250" y="201" font-size="13" font-weight="500" fill="#334155">Face recognition</text></g>
+  <g class="fi" style="animation-delay:0.60s"><rect x="48" y="218" width="160" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="63" cy="232" r="3" fill="#4F46E5"/><text class="f" x="73" y="237" font-size="13" font-weight="500" fill="#334155">Payroll &amp; payslips</text></g>
+  <g class="fi" style="animation-delay:0.70s"><rect x="218" y="218" width="146" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="233" cy="232" r="3" fill="#4F46E5"/><text class="f" x="243" y="237" font-size="13" font-weight="500" fill="#334155">ID card printing</text></g>
+  <g class="nudge"><text class="f" x="48" y="266" font-size="13" font-weight="700" fill="#1E40AF" letter-spacing="1">Request a demo  →</text></g>
+  <rect x="560" y="24" width="608" height="252" rx="12" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <rect x="584" y="48" width="132" height="150" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <path d="M646.2 121.3A4.6 6.0 0 1 1 653.8 121.3" fill="none" stroke="#4F46E5" stroke-opacity="0.54" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="none" stroke-dashoffset="7"/>
+  <path d="M642.3 124.6A9.2 12.0 0 1 1 657.7 124.6" fill="none" stroke="#4F46E5" stroke-opacity="0.63" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="22 5" stroke-dashoffset="14"/>
+  <path d="M638.5 127.9A13.8 18.0 0 1 1 661.5 127.9" fill="none" stroke="#4F46E5" stroke-opacity="0.72" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="34 6 12 6" stroke-dashoffset="21"/>
+  <path d="M634.6 131.2A18.4 24.0 0 1 1 665.4 131.2" fill="none" stroke="#4F46E5" stroke-opacity="0.81" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="40 7 20 7" stroke-dashoffset="28"/>
+  <path d="M630.8 134.5A23.0 30.0 0 1 1 669.2 134.5" fill="none" stroke="#4F46E5" stroke-opacity="0.90" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="52 8 24 8" stroke-dashoffset="35"/>
+  <path d="M627.0 137.8A27.6 36.0 0 1 1 673.0 137.8" fill="none" stroke="#4F46E5" stroke-opacity="0.99" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="60 9 30 9" stroke-dashoffset="42"/>
+  <g class="scan"><rect x="610" y="82" width="80" height="2" rx="1" fill="#4F46E5"/><rect x="610" y="74" width="80" height="8" fill="#4F46E5" opacity=".12"/></g>
+  <text class="f" x="650" y="182" font-size="12" font-weight="600" fill="#0F172A" text-anchor="middle">Fingerprint</text>
+  <rect x="728" y="48" width="132" height="150" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="794" cy="106" r="15" fill="#EEF2FF" stroke="#A5B4FC" stroke-width="1.5"/>
+  <path d="M768 146c0-16 12-24 26-24s26 8 26 24" fill="#EEF2FF" stroke="#A5B4FC" stroke-width="1.5"/>
+  <path class="lock" d="M758 88V76H770M830 88V76H818M758 136V148H770M830 136V148H818" fill="none" stroke="#4F46E5" stroke-width="2.2" stroke-linecap="round"/>
+  <g class="match"><rect x="762" y="154" width="64" height="16" rx="8" fill="#EEF2FF"/><text class="m" x="794" y="165" font-size="8.5" font-weight="700" fill="#4F46E5" text-anchor="middle" letter-spacing="0.8">MATCH 98%</text></g>
+  <text class="f" x="794" y="182" font-size="12" font-weight="600" fill="#0F172A" text-anchor="middle">Face</text>
+  <rect x="584" y="210" width="276" height="50" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <g class="lg" style="animation-delay:1.2s"><text class="m" x="598" y="230" font-size="10.5" font-weight="600" fill="#0F172A">EMP-104</text><text class="m" x="676" y="230" font-size="10.5" font-weight="500" fill="#475569">IN 09:02</text><rect x="780" y="219" width="66" height="15" rx="7.5" fill="#F0FDF4" stroke="#BBF7D0"/><text class="m" x="813" y="230" font-size="8.5" font-weight="700" fill="#16A34A" text-anchor="middle" letter-spacing="0.8">PRESENT</text></g>
+  <g class="lg" style="animation-delay:2.4s"><text class="m" x="598" y="250" font-size="10.5" font-weight="600" fill="#0F172A">EMP-117</text><text class="m" x="676" y="250" font-size="10.5" font-weight="500" fill="#475569">IN 09:05</text><rect x="780" y="239" width="66" height="15" rx="7.5" fill="#F0FDF4" stroke="#BBF7D0"/><text class="m" x="813" y="250" font-size="8.5" font-weight="700" fill="#16A34A" text-anchor="middle" letter-spacing="0.8">PRESENT</text></g>
+  <rect x="872" y="48" width="136" height="212" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text class="m" x="886" y="70" font-size="10" font-weight="700" fill="#64748B" letter-spacing="1.5">PAYROLL · NOV</text>
+  <g class="lg" style="animation-delay:0.4s"><text class="f" x="886" y="96" font-size="11.5" font-weight="500" fill="#475569">Basic</text><text class="m" x="994" y="96" font-size="11" font-weight="600" fill="#0F172A" text-anchor="end">32,000</text></g>
+  <g class="lg" style="animation-delay:0.8s"><text class="f" x="886" y="120" font-size="11.5" font-weight="500" fill="#475569">Allowance</text><text class="m" x="994" y="120" font-size="11" font-weight="600" fill="#0F172A" text-anchor="end">9,600</text></g>
+  <g class="lg" style="animation-delay:1.2s"><text class="f" x="886" y="144" font-size="11.5" font-weight="500" fill="#475569">Overtime</text><text class="m" x="994" y="144" font-size="11" font-weight="600" fill="#0F172A" text-anchor="end">4,200</text></g>
+  <g class="lg" style="animation-delay:1.6s"><text class="f" x="886" y="168" font-size="11.5" font-weight="500" fill="#475569">Deduction</text><text class="m" x="994" y="168" font-size="11" font-weight="600" fill="#0F172A" text-anchor="end">-1,600</text></g>
+  <line x1="886" y1="198" x2="994" y2="198" stroke="#E2E8F0"/>
+  <text class="m" x="886" y="220" font-size="9.5" font-weight="700" fill="#64748B" letter-spacing="1">NET PAY</text>
+  <g class="lg" style="animation-delay:2.2s"><text class="s" x="886" y="244" font-size="20" font-weight="400" fill="#4F46E5">Tk 44,200</text></g>
+  <g class="idc">
+  <rect x="1022" y="44" width="132" height="216" rx="10" fill="#FFFFFF" stroke="#C7D2FE"/>
+  <path d="M1022 92V54a10 10 0 0 1 10-10h112a10 10 0 0 1 10 10V92z" fill="#4F46E5"/>
+  <rect x="1074.0" y="54" width="28" height="5" rx="2.5" fill="#FFFFFF" opacity=".5"/>
+  <text class="f" x="1088.0" y="80" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">KormoLink</text>
+  <circle cx="1088.0" cy="128" r="24" fill="#EEF2FF" stroke="#4F46E5"/>
+  <circle cx="1088.0" cy="122" r="8" fill="#A5B4FC"/>
+  <path d="M1073.0 145c2-9 8-12 15-12s13 3 15 12" fill="#A5B4FC"/>
+  <rect x="1048" y="164" width="80" height="8" rx="4" fill="#CBD5E1"/>
+  <rect x="1060" y="178" width="56" height="6" rx="3" fill="#E2E8F0"/>
+  <text class="m" x="1088.0" y="204" font-size="10" font-weight="700" fill="#0F172A" text-anchor="middle" letter-spacing="1">ID  KL-0104</text>
+  <rect x="1044" y="216" width="2" height="24" fill="#0F172A"/>
+  <rect x="1049.6" y="216" width="3" height="24" fill="#0F172A"/>
+  <rect x="1056.1999999999998" y="216" width="2" height="24" fill="#0F172A"/>
+  <rect x="1061.7999999999997" y="216" width="1" height="24" fill="#0F172A"/>
+  <rect x="1068.3999999999996" y="216" width="2" height="24" fill="#0F172A"/>
+  <rect x="1073.9999999999995" y="216" width="2" height="24" fill="#0F172A"/>
+  <rect x="1079.5999999999995" y="216" width="3" height="24" fill="#0F172A"/>
+  <rect x="1086.1999999999994" y="216" width="1" height="24" fill="#0F172A"/>
+  <rect x="1091.7999999999993" y="216" width="1" height="24" fill="#0F172A"/>
+  <rect x="1098.3999999999992" y="216" width="2" height="24" fill="#0F172A"/>
+  <rect x="1103.999999999999" y="216" width="2" height="24" fill="#0F172A"/>
+  <rect x="1109.599999999999" y="216" width="1" height="24" fill="#0F172A"/>
+  <rect x="1115.199999999999" y="216" width="3" height="24" fill="#0F172A"/>
+  <rect x="1121.7999999999988" y="216" width="2" height="24" fill="#0F172A"/>
+  </g>
+</svg>

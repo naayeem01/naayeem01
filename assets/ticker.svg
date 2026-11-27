@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="TYPESCRIPT, REACT, NEXT.JS, NODE.JS, NESTJS, LARAVEL, PYTHON, POSTGRESQL, MONGODB, REDIS, AWS, DOCKER, GRAPHQL, TAILWIND">
+  <defs>
+    <clipPath id="card"><rect width="1200" height="56" rx="14"/></clipPath>
+    <clipPath id="mq"><rect x="150" y="0" width="1040" height="56"/></clipPath>
+  </defs>
+  <style>
+    .f { font-family: 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .s { font-family: Georgia, 'Times New Roman', Times, serif; }
+    .fi { animation: fi .9s ease-out both; }
+    @keyframes fi { from { opacity: 0; transform: translateY(8px); } }
+    .on { animation: on 10s infinite; }
+    .off { opacity: 0; animation: off 10s infinite; }
+    .dim { animation: dim 10s infinite; }
+    @keyframes on { 0%, 45% { opacity: 1; } 50%, 95% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes off { 0%, 45% { opacity: 0; } 50%, 95% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes dim { 0%, 45% { opacity: 1; } 50%, 95% { opacity: .25; } 100% { opacity: 1; } }
+    .blink { animation: blink 1.6s ease-in-out infinite; }
+    @keyframes blink { 50% { opacity: .25; } }
+    .nudge { animation: nudge 2.4s ease-in-out infinite; }
+    @keyframes nudge { 0%, 60%, 100% { transform: translateX(0); } 75% { transform: translateX(6px); } }
+    .draw { stroke-dasharray: 1400; animation: draw 1.6s ease-out .3s both; }
+    @keyframes draw { from { stroke-dashoffset: 1400; } }
+    @media (prefers-color-scheme: dark) { .bg { fill: #F8FAFC; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+    .mq { animation: mq 45s linear infinite; }
+    @keyframes mq { to { transform: translateX(-1800px); } }
+  </style>
+  <rect class="bg" x=".5" y=".5" width="1199" height="55" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text class="m" x="36" y="34" font-size="12" font-weight="700" fill="#1E40AF" letter-spacing="3">STACK</text>
+  <line x1="128" y1="16" x2="128" y2="40" stroke="#E2E8F0"/>
+  <g clip-path="url(#mq)"><g class="mq"><text class="f" x="160" y="34" font-size="14" font-weight="600" fill="#0F172A" letter-spacing="2" textLength="1800" lengthAdjust="spacing"><tspan>TYPESCRIPT</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>REACT</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>NEXT.JS</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>NODE.JS</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>NESTJS</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>LARAVEL</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>PYTHON</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>POSTGRESQL</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>MONGODB</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>REDIS</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>AWS</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>DOCKER</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>GRAPHQL</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>TAILWIND</tspan><tspan fill="#3B82F6">   ·   </tspan></text><text class="f" x="1960" y="34" font-size="14" font-weight="600" fill="#0F172A" letter-spacing="2" textLength="1800" lengthAdjust="spacing"><tspan>TYPESCRIPT</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>REACT</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>NEXT.JS</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>NODE.JS</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>NESTJS</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>LARAVEL</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>PYTHON</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>POSTGRESQL</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>MONGODB</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>REDIS</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>AWS</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>DOCKER</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>GRAPHQL</tspan><tspan fill="#3B82F6">   ·   </tspan><tspan>TAILWIND</tspan><tspan fill="#3B82F6">   ·   </tspan></text></g></g>
+</svg>

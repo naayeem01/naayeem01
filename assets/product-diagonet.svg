@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="DiagoNet: diagnostic centre software with LIS. Interfaces with lab analyzers, imports results automatically, prints reports, works online and offline.">
+  <defs>
+    <clipPath id="card"><rect width="1200" height="340" rx="14"/></clipPath>
+
+  </defs>
+  <style>
+    .f { font-family: 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .s { font-family: Georgia, 'Times New Roman', Times, serif; }
+    .fi { animation: fi .9s ease-out both; }
+    @keyframes fi { from { opacity: 0; transform: translateY(8px); } }
+    .on { animation: on 10s infinite; }
+    .off { opacity: 0; animation: off 10s infinite; }
+    .dim { animation: dim 10s infinite; }
+    @keyframes on { 0%, 45% { opacity: 1; } 50%, 95% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes off { 0%, 45% { opacity: 0; } 50%, 95% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes dim { 0%, 45% { opacity: 1; } 50%, 95% { opacity: .25; } 100% { opacity: 1; } }
+    .blink { animation: blink 1.6s ease-in-out infinite; }
+    @keyframes blink { 50% { opacity: .25; } }
+    .nudge { animation: nudge 2.4s ease-in-out infinite; }
+    @keyframes nudge { 0%, 60%, 100% { transform: translateX(0); } 75% { transform: translateX(6px); } }
+    .draw { stroke-dasharray: 1400; animation: draw 1.6s ease-out .3s both; }
+    @keyframes draw { from { stroke-dashoffset: 1400; } }
+    @media (prefers-color-scheme: dark) { .bg { fill: #F8FAFC; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+    .spin { transform-origin: 800px 183px; animation: spin 30s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .row { animation: row 8s ease-out infinite both; }
+    @keyframes row { 0% { opacity: 0; transform: translateX(-10px); } 6%, 82% { opacity: 1; transform: none; } 92%, 100% { opacity: 0; } }
+    .up { animation: up 1.4s ease-in-out infinite; }
+    @keyframes up { 0% { transform: translateY(4px); opacity: 0; } 40% { opacity: 1; } 100% { transform: translateY(-3px); opacity: 0; } }
+  </style>
+  <rect class="bg" x=".5" y=".5" width="1199" height="339" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="52" cy="48" r="4" fill="#0D9488"/>
+  <text class="m" x="64" y="52" font-size="12" font-weight="700" fill="#475569" letter-spacing="2.5">DIAGNOSTIC CENTRE · LIS</text>
+  <rect x="301" y="37" width="78" height="20" rx="10" fill="#EFF6FF" stroke="#BFDBFE"/>
+  <text class="m" x="340.1" y="51" font-size="10" font-weight="700" fill="#1E40AF" text-anchor="middle" letter-spacing="1.5">FLAGSHIP</text>
+  <g class="fi"><text class="s" x="46" y="100" font-size="40" font-weight="400" fill="#0F172A">DiagoNet</text></g>
+  <g class="fi" style="animation-delay:0.15s"><text class="f" x="48" y="132" font-size="15" font-weight="400" fill="#475569">Lab information system for diagnostic centres.</text></g>
+  <g class="fi" style="animation-delay:0.23s"><text class="f" x="48" y="154" font-size="15" font-weight="400" fill="#475569">Results flow from the analyzer straight into the report:</text></g>
+  <g class="fi" style="animation-delay:0.31s"><text class="f" x="48" y="176" font-size="15" font-weight="400" fill="#475569">no retyping and no transcription errors.</text></g>
+  <g class="fi" style="animation-delay:0.40s"><rect x="48" y="204" width="174" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="63" cy="218" r="3" fill="#0D9488"/><text class="f" x="73" y="223" font-size="13" font-weight="500" fill="#334155">Analyzer interfacing</text></g>
+  <g class="fi" style="animation-delay:0.50s"><rect x="232" y="204" width="160" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="247" cy="218" r="3" fill="#0D9488"/><text class="f" x="257" y="223" font-size="13" font-weight="500" fill="#334155">Auto result import</text></g>
+  <g class="fi" style="animation-delay:0.60s"><rect x="48" y="240" width="215" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="63" cy="254" r="3" fill="#0D9488"/><text class="f" x="73" y="259" font-size="13" font-weight="500" fill="#334155">Report printing &amp; delivery</text></g>
+  <g class="fi" style="animation-delay:0.70s"><rect x="273" y="240" width="188" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="288" cy="254" r="3" fill="#0D9488"/><text class="f" x="298" y="259" font-size="13" font-weight="500" fill="#334155">Works online &amp; offline</text></g>
+  <g class="nudge"><text class="f" x="48" y="306" font-size="13" font-weight="700" fill="#1E40AF" letter-spacing="1">Request a demo  →</text></g>
+  <rect x="560" y="24" width="608" height="292" rx="12" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <text class="m" x="584" y="52" font-size="10" font-weight="700" fill="#64748B" letter-spacing="2">ANALYZER  →  LIS  →  REPORT</text>
+  <path d="M734 100 C764 100 752 183 768 183" fill="none" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <circle r="4" fill="#0D9488" opacity="0"><animateMotion path="M734 100 C764 100 752 183 768 183" dur="1.6s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="1.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+  <rect x="584" y="72" width="150" height="56" rx="8" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="596" y="87" width="26" height="20" rx="3" fill="#F0FDFA" stroke="#0D9488"/>
+  <polyline points="600,101 605,96 609,99 614,92 618,97" fill="none" stroke="#0D9488" stroke-width="1.3"/>
+  <line x1="603" y1="112" x2="615" y2="112" stroke="#0D9488" stroke-width="1.5"/>
+  <text class="f" x="632" y="98" font-size="13" font-weight="600" fill="#0F172A">Hematology</text>
+  <text class="m" x="632" y="114" font-size="9.5" font-weight="600" fill="#64748B">ASTM · RS-232</text>
+  <circle cx="722" cy="84" r="3" fill="#16A34A" class="blink" style="animation-delay:0.0s"/>
+  <path d="M734 180 C764 180 752 183 768 183" fill="none" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <circle r="4" fill="#0D9488" opacity="0"><animateMotion path="M734 180 C764 180 752 183 768 183" dur="1.6s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="1.6s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <rect x="584" y="152" width="150" height="56" rx="8" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="596" y="167" width="26" height="20" rx="3" fill="#F0FDFA" stroke="#0D9488"/>
+  <polyline points="600,181 605,176 609,179 614,172 618,177" fill="none" stroke="#0D9488" stroke-width="1.3"/>
+  <line x1="603" y1="192" x2="615" y2="192" stroke="#0D9488" stroke-width="1.5"/>
+  <text class="f" x="632" y="178" font-size="13" font-weight="600" fill="#0F172A">Biochemistry</text>
+  <text class="m" x="632" y="194" font-size="9.5" font-weight="600" fill="#64748B">HL7 · TCP/IP</text>
+  <circle cx="722" cy="164" r="3" fill="#16A34A" class="blink" style="animation-delay:0.4s"/>
+  <path d="M734 260 C764 260 752 183 768 183" fill="none" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <circle r="4" fill="#0D9488" opacity="0"><animateMotion path="M734 260 C764 260 752 183 768 183" dur="1.6s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="1.6s" begin="1.4s" repeatCount="indefinite"/></circle>
+  <rect x="584" y="232" width="150" height="56" rx="8" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="596" y="247" width="26" height="20" rx="3" fill="#F0FDFA" stroke="#0D9488"/>
+  <polyline points="600,261 605,256 609,259 614,252 618,257" fill="none" stroke="#0D9488" stroke-width="1.3"/>
+  <line x1="603" y1="272" x2="615" y2="272" stroke="#0D9488" stroke-width="1.5"/>
+  <text class="f" x="632" y="258" font-size="13" font-weight="600" fill="#0F172A">Immunoassay</text>
+  <text class="m" x="632" y="274" font-size="9.5" font-weight="600" fill="#64748B">ASTM · TCP/IP</text>
+  <circle cx="722" cy="244" r="3" fill="#16A34A" class="blink" style="animation-delay:0.8s"/>
+  <circle cx="800" cy="183" r="42" fill="none" stroke="#99F6E4" stroke-dasharray="3 6" class="spin"/>
+  <circle cx="800" cy="183" r="31" fill="#FFFFFF" stroke="#0D9488" stroke-width="1.5"/>
+  <text class="m" x="800" y="188" font-size="15" font-weight="700" fill="#0D9488" text-anchor="middle" letter-spacing="1">LIS</text>
+  <line x1="831" y1="183" x2="872" y2="183" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <circle cy="183" r="4" fill="#0D9488"><animate attributeName="cx" values="831;872" dur=".8s" repeatCount="indefinite"/></circle>
+  <rect x="872" y="48" width="280" height="220" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="888" cy="64" r="3.5" fill="#E2E8F0"/>
+  <circle cx="900" cy="64" r="3.5" fill="#E2E8F0"/>
+  <circle cx="912" cy="64" r="3.5" fill="#E2E8F0"/>
+  <text class="m" x="928" y="68" font-size="10" font-weight="600" fill="#64748B">DiagoNet · Report #1042</text>
+  <line x1="872" y1="80" x2="1152" y2="80" stroke="#E2E8F0"/>
+  <text class="m" x="888" y="102" font-size="9.5" font-weight="700" fill="#475569" letter-spacing="0.5">PATIENT  P-20931  ·  CBC + LFT</text>
+  <g class="row" style="animation-delay:0.6s"><line x1="886" y1="137" x2="1138" y2="137" stroke="#F1F5F9"/><text class="f" x="888" y="128" font-size="13" font-weight="500" fill="#0F172A">Haemoglobin</text><text class="m" x="1112" y="128" font-size="12" font-weight="600" fill="#0F172A" text-anchor="end">13.8 g/dL</text><path d="M1122 123l3.5 3.5 7-7" fill="none" stroke="#0D9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g class="row" style="animation-delay:1.3s"><line x1="886" y1="164" x2="1138" y2="164" stroke="#F1F5F9"/><text class="f" x="888" y="155" font-size="13" font-weight="500" fill="#0F172A">WBC count</text><text class="m" x="1112" y="155" font-size="12" font-weight="600" fill="#0F172A" text-anchor="end">7.2 K/µL</text><path d="M1122 150l3.5 3.5 7-7" fill="none" stroke="#0D9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g class="row" style="animation-delay:2.0s"><line x1="886" y1="191" x2="1138" y2="191" stroke="#F1F5F9"/><text class="f" x="888" y="182" font-size="13" font-weight="500" fill="#0F172A">Fasting glucose</text><text class="m" x="1112" y="182" font-size="12" font-weight="600" fill="#0F172A" text-anchor="end">5.4 mmol/L</text><path d="M1122 177l3.5 3.5 7-7" fill="none" stroke="#0D9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g class="row" style="animation-delay:2.7s"><line x1="886" y1="218" x2="1138" y2="218" stroke="#F1F5F9"/><text class="f" x="888" y="209" font-size="13" font-weight="500" fill="#0F172A">ALT (SGPT)</text><text class="m" x="1112" y="209" font-size="12" font-weight="600" fill="#0F172A" text-anchor="end">28 U/L</text><path d="M1122 204l3.5 3.5 7-7" fill="none" stroke="#0D9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g class="row" style="animation-delay:3.4s"><line x1="886" y1="245" x2="1138" y2="245" stroke="#F1F5F9"/><text class="f" x="888" y="236" font-size="13" font-weight="500" fill="#0F172A">TSH</text><text class="m" x="1112" y="236" font-size="12" font-weight="600" fill="#0F172A" text-anchor="end">2.1 mIU/L</text><path d="M1122 231l3.5 3.5 7-7" fill="none" stroke="#0D9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <rect x="872" y="282" width="150" height="26" rx="13" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <g class="on"><circle cx="887" cy="295" r="4" fill="#16A34A" class="blink"/><text class="m" x="898" y="299" font-size="10" font-weight="700" fill="#166534" letter-spacing="1">ONLINE · SYNCED</text></g>
+  <g class="off"><circle cx="887" cy="295" r="4" fill="#D97706"/><text class="m" x="898" y="299" font-size="10" font-weight="700" fill="#92400E" letter-spacing="1">OFFLINE · LOCAL</text></g>
+  <g class="dim"><path d="M1046 304h40a10 10 0 0 0 0-20a14 14 0 0 0-27-3a9 9 0 0 0-13 23z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.5"/><g class="up"><path d="M1066 299v-11m-4 4 4-4 4 4" fill="none" stroke="#3B82F6" stroke-width="1.6" stroke-linecap="round"/></g></g>
+  <g class="on"><text class="f" x="1104" y="299" font-size="12" font-weight="500" fill="#475569">Cloud backup</text></g>
+  <g class="off"><text class="f" x="1104" y="299" font-size="12" font-weight="600" fill="#92400E">Works offline</text></g>
+</svg>

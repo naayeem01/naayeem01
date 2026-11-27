@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [.github/workflows/profile-cards.yml]
+    paths: [.github/workflows/profile-cards.yml, .github/profile-3d-settings.json]
 
 permissions:
   contents: write
@@ -25,6 +25,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Corporate blue 3D graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-settings.json
 
       - name: Commit 3D contribution graphs
         run: |

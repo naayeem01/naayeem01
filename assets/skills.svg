@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="402" viewBox="0 0 1200 402" role="img" aria-label="Skill levels: API design 96%, System architecture 94%, React / Next.js 92%, Node.js / NestJS 92%, PostgreSQL / MongoDB 88%, AWS / Azure 86%, CI/CD &amp; Docker 85%, Laravel / PHP 78%, Machine learning (in training) 42%">
+  <defs>
+    <clipPath id="card"><rect width="1200" height="402" rx="14"/></clipPath>
+
+  </defs>
+  <style>
+    .f { font-family: 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .s { font-family: Georgia, 'Times New Roman', Times, serif; }
+    .fi { animation: fi .9s ease-out both; }
+    @keyframes fi { from { opacity: 0; transform: translateY(8px); } }
+    .on { animation: on 10s infinite; }
+    .off { opacity: 0; animation: off 10s infinite; }
+    .dim { animation: dim 10s infinite; }
+    @keyframes on { 0%, 45% { opacity: 1; } 50%, 95% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes off { 0%, 45% { opacity: 0; } 50%, 95% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes dim { 0%, 45% { opacity: 1; } 50%, 95% { opacity: .25; } 100% { opacity: 1; } }
+    .blink { animation: blink 1.6s ease-in-out infinite; }
+    @keyframes blink { 50% { opacity: .25; } }
+    .nudge { animation: nudge 2.4s ease-in-out infinite; }
+    @keyframes nudge { 0%, 60%, 100% { transform: translateX(0); } 75% { transform: translateX(6px); } }
+    .draw { stroke-dasharray: 1400; animation: draw 1.6s ease-out .3s both; }
+    @keyframes draw { from { stroke-dashoffset: 1400; } }
+    @media (prefers-color-scheme: dark) { .bg { fill: #F8FAFC; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+  </style>
+  <rect class="bg" x=".5" y=".5" width="1199" height="401" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text class="m" x="48" y="46" font-size="12" font-weight="700" fill="#1E40AF" letter-spacing="3">SKILL LEVELS</text>
+  <text class="f" x="172" y="46" font-size="13" font-weight="400" fill="#64748B">self-assessed</text>
+  <text class="f" x="48" y="92" font-size="14" font-weight="500" fill="#0F172A">API design</text>
+  <rect x="360" y="84" width="730" height="6" rx="3" fill="#F1F5F9"/>
+  <rect x="360" y="84" width="701" height="6" rx="3" fill="#1E40AF"><animate attributeName="width" from="0" to="701" dur="1.4s" begin="0.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="1152" y="92" font-size="13" font-weight="700" fill="#1E40AF" text-anchor="end">96%</text>
+  <text class="f" x="48" y="126" font-size="14" font-weight="500" fill="#0F172A">System architecture</text>
+  <rect x="360" y="118" width="730" height="6" rx="3" fill="#F1F5F9"/>
+  <rect x="360" y="118" width="686" height="6" rx="3" fill="#1E40AF"><animate attributeName="width" from="0" to="686" dur="1.4s" begin="0.3s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="1152" y="126" font-size="13" font-weight="700" fill="#1E40AF" text-anchor="end">94%</text>
+  <text class="f" x="48" y="160" font-size="14" font-weight="500" fill="#0F172A">React / Next.js</text>
+  <rect x="360" y="152" width="730" height="6" rx="3" fill="#F1F5F9"/>
+  <rect x="360" y="152" width="672" height="6" rx="3" fill="#1E40AF"><animate attributeName="width" from="0" to="672" dur="1.4s" begin="0.4s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="1152" y="160" font-size="13" font-weight="700" fill="#1E40AF" text-anchor="end">92%</text>
+  <text class="f" x="48" y="194" font-size="14" font-weight="500" fill="#0F172A">Node.js / NestJS</text>
+  <rect x="360" y="186" width="730" height="6" rx="3" fill="#F1F5F9"/>
+  <rect x="360" y="186" width="672" height="6" rx="3" fill="#1E40AF"><animate attributeName="width" from="0" to="672" dur="1.4s" begin="0.5s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="1152" y="194" font-size="13" font-weight="700" fill="#1E40AF" text-anchor="end">92%</text>
+  <text class="f" x="48" y="228" font-size="14" font-weight="500" fill="#0F172A">PostgreSQL / MongoDB</text>
+  <rect x="360" y="220" width="730" height="6" rx="3" fill="#F1F5F9"/>
+  <rect x="360" y="220" width="642" height="6" rx="3" fill="#1E40AF"><animate attributeName="width" from="0" to="642" dur="1.4s" begin="0.6s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="1152" y="228" font-size="13" font-weight="700" fill="#1E40AF" text-anchor="end">88%</text>
+  <text class="f" x="48" y="262" font-size="14" font-weight="500" fill="#0F172A">AWS / Azure</text>
+  <rect x="360" y="254" width="730" height="6" rx="3" fill="#F1F5F9"/>
+  <rect x="360" y="254" width="628" height="6" rx="3" fill="#1E40AF"><animate attributeName="width" from="0" to="628" dur="1.4s" begin="0.7s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="1152" y="262" font-size="13" font-weight="700" fill="#1E40AF" text-anchor="end">86%</text>
+  <text class="f" x="48" y="296" font-size="14" font-weight="500" fill="#0F172A">CI/CD &amp; Docker</text>
+  <rect x="360" y="288" width="730" height="6" rx="3" fill="#F1F5F9"/>
+  <rect x="360" y="288" width="620" height="6" rx="3" fill="#1E40AF"><animate attributeName="width" from="0" to="620" dur="1.4s" begin="0.8s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="1152" y="296" font-size="13" font-weight="700" fill="#1E40AF" text-anchor="end">85%</text>
+  <text class="f" x="48" y="330" font-size="14" font-weight="500" fill="#0F172A">Laravel / PHP</text>
+  <rect x="360" y="322" width="730" height="6" rx="3" fill="#F1F5F9"/>
+  <rect x="360" y="322" width="569" height="6" rx="3" fill="#1E40AF"><animate attributeName="width" from="0" to="569" dur="1.4s" begin="0.9s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="1152" y="330" font-size="13" font-weight="700" fill="#1E40AF" text-anchor="end">78%</text>
+  <text class="f" x="48" y="364" font-size="14" font-weight="500" fill="#64748B">Machine learning (in training)</text>
+  <rect x="360" y="356" width="730" height="6" rx="3" fill="#F1F5F9"/>
+  <rect x="360" y="356" width="307" height="6" rx="3" fill="#94A3B8"><animate attributeName="width" from="0" to="307" dur="1.4s" begin="1.0s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text class="m" x="1152" y="364" font-size="13" font-weight="700" fill="#94A3B8" text-anchor="end">42%</text>
+</svg>

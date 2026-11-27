@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="MediSlot: doctor appointment software with online booking, doctor schedules, serial and queue display, and SMS reminders.">
+  <defs>
+    <clipPath id="card"><rect width="1200" height="300" rx="14"/></clipPath>
+
+  </defs>
+  <style>
+    .f { font-family: 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .s { font-family: Georgia, 'Times New Roman', Times, serif; }
+    .fi { animation: fi .9s ease-out both; }
+    @keyframes fi { from { opacity: 0; transform: translateY(8px); } }
+    .on { animation: on 10s infinite; }
+    .off { opacity: 0; animation: off 10s infinite; }
+    .dim { animation: dim 10s infinite; }
+    @keyframes on { 0%, 45% { opacity: 1; } 50%, 95% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes off { 0%, 45% { opacity: 0; } 50%, 95% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes dim { 0%, 45% { opacity: 1; } 50%, 95% { opacity: .25; } 100% { opacity: 1; } }
+    .blink { animation: blink 1.6s ease-in-out infinite; }
+    @keyframes blink { 50% { opacity: .25; } }
+    .nudge { animation: nudge 2.4s ease-in-out infinite; }
+    @keyframes nudge { 0%, 60%, 100% { transform: translateX(0); } 75% { transform: translateX(6px); } }
+    .draw { stroke-dasharray: 1400; animation: draw 1.6s ease-out .3s both; }
+    @keyframes draw { from { stroke-dashoffset: 1400; } }
+    @media (prefers-color-scheme: dark) { .bg { fill: #F8FAFC; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+    .bk { animation: bk 9s ease-out infinite both; }
+    @keyframes bk { 0% { opacity: 0; } 4%, 86% { opacity: 1; } 94%, 100% { opacity: 0; } }
+    .toast { animation: toast 9s ease-out infinite; }
+    @keyframes toast { 0%, 8% { opacity: 0; transform: translateY(8px); } 14%, 80% { opacity: 1; transform: none; } 88%, 100% { opacity: 0; } }
+    .q0 { animation: q0 9s infinite; } .q1 { opacity: 0; animation: q1 9s infinite; } .q2 { opacity: 0; animation: q2 9s infinite; }
+    @keyframes q0 { 0%, 30% { opacity: 1; } 33%, 97% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes q1 { 0%, 30% { opacity: 0; } 33%, 63% { opacity: 1; } 66%, 100% { opacity: 0; } }
+    @keyframes q2 { 0%, 63% { opacity: 0; } 66%, 97% { opacity: 1; } 100% { opacity: 0; } }
+  </style>
+  <rect class="bg" x=".5" y=".5" width="1199" height="299" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="52" cy="48" r="4" fill="#0284C7"/>
+  <text class="m" x="64" y="52" font-size="12" font-weight="700" fill="#475569" letter-spacing="2.5">DOCTOR APPOINTMENTS</text>
+  <g class="fi"><text class="s" x="46" y="100" font-size="40" font-weight="400" fill="#0F172A">MediSlot</text></g>
+  <g class="fi" style="animation-delay:0.15s"><text class="f" x="48" y="132" font-size="15" font-weight="400" fill="#475569">Appointment booking for clinics and doctor chambers:</text></g>
+  <g class="fi" style="animation-delay:0.23s"><text class="f" x="48" y="154" font-size="15" font-weight="400" fill="#475569">schedules, patient serials and reminders in one place.</text></g>
+  <g class="fi" style="animation-delay:0.40s"><rect x="48" y="182" width="133" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="63" cy="196" r="3" fill="#0284C7"/><text class="f" x="73" y="201" font-size="13" font-weight="500" fill="#334155">Online booking</text></g>
+  <g class="fi" style="animation-delay:0.50s"><rect x="191" y="182" width="146" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="206" cy="196" r="3" fill="#0284C7"/><text class="f" x="216" y="201" font-size="13" font-weight="500" fill="#334155">Doctor schedules</text></g>
+  <g class="fi" style="animation-delay:0.60s"><rect x="48" y="218" width="188" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="63" cy="232" r="3" fill="#0284C7"/><text class="f" x="73" y="237" font-size="13" font-weight="500" fill="#334155">Serial &amp; queue display</text></g>
+  <g class="fi" style="animation-delay:0.70s"><rect x="246" y="218" width="126" height="28" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/><circle cx="261" cy="232" r="3" fill="#0284C7"/><text class="f" x="271" y="237" font-size="13" font-weight="500" fill="#334155">SMS reminders</text></g>
+  <g class="nudge"><text class="f" x="48" y="266" font-size="13" font-weight="700" fill="#1E40AF" letter-spacing="1">View on GitHub  →</text></g>
+  <rect x="560" y="24" width="608" height="252" rx="12" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <rect x="584" y="48" width="372" height="204" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text class="m" x="598" y="70" font-size="10" font-weight="700" fill="#64748B" letter-spacing="1.5">SCHEDULE · THIS WEEK</text>
+  <text class="m" x="670.0" y="84" font-size="9.5" font-weight="700" fill="#64748B" text-anchor="middle" letter-spacing="1">SAT</text>
+  <text class="m" x="730.0" y="84" font-size="9.5" font-weight="700" fill="#64748B" text-anchor="middle" letter-spacing="1">SUN</text>
+  <text class="m" x="790.0" y="84" font-size="9.5" font-weight="700" fill="#64748B" text-anchor="middle" letter-spacing="1">MON</text>
+  <text class="m" x="850.0" y="84" font-size="9.5" font-weight="700" fill="#64748B" text-anchor="middle" letter-spacing="1">TUE</text>
+  <text class="m" x="910.0" y="84" font-size="9.5" font-weight="700" fill="#64748B" text-anchor="middle" letter-spacing="1">WED</text>
+  <text class="m" x="598" y="108" font-size="10" font-weight="600" fill="#475569">10:00</text>
+  <rect x="642" y="92" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="702" y="92" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="762" y="92" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="822" y="92" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="882" y="92" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <text class="m" x="598" y="138" font-size="10" font-weight="600" fill="#475569">11:00</text>
+  <rect x="642" y="122" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="702" y="122" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="762" y="122" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="822" y="122" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="882" y="122" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <text class="m" x="598" y="168" font-size="10" font-weight="600" fill="#475569">16:00</text>
+  <rect x="642" y="152" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="702" y="152" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="762" y="152" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="822" y="152" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="882" y="152" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <text class="m" x="598" y="198" font-size="10" font-weight="600" fill="#475569">17:00</text>
+  <rect x="642" y="182" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="702" y="182" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="762" y="182" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="822" y="182" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="882" y="182" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <text class="m" x="598" y="228" font-size="10" font-weight="600" fill="#475569">18:00</text>
+  <rect x="642" y="212" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="702" y="212" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="762" y="212" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="822" y="212" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <rect x="882" y="212" width="56" height="24" rx="5" fill="#F8FAFC" stroke="#EEF2F7"/>
+  <g class="bk" style="animation-delay:0.30s"><rect x="642" y="92" width="56" height="24" rx="5" fill="#E0F2FE" stroke="#7DD3FC"/><rect x="650" y="102" width="30" height="4" rx="2" fill="#0284C7"/></g>
+  <g class="bk" style="animation-delay:0.85s"><rect x="702" y="152" width="56" height="24" rx="5" fill="#E0F2FE" stroke="#7DD3FC"/><rect x="710" y="162" width="30" height="4" rx="2" fill="#0284C7"/></g>
+  <g class="bk" style="animation-delay:1.40s"><rect x="822" y="122" width="56" height="24" rx="5" fill="#E0F2FE" stroke="#7DD3FC"/><rect x="830" y="132" width="30" height="4" rx="2" fill="#0284C7"/></g>
+  <g class="bk" style="animation-delay:1.95s"><rect x="762" y="182" width="56" height="24" rx="5" fill="#E0F2FE" stroke="#7DD3FC"/><rect x="770" y="192" width="30" height="4" rx="2" fill="#0284C7"/></g>
+  <g class="bk" style="animation-delay:2.50s"><rect x="642" y="212" width="56" height="24" rx="5" fill="#E0F2FE" stroke="#7DD3FC"/><rect x="650" y="222" width="30" height="4" rx="2" fill="#0284C7"/></g>
+  <g class="bk" style="animation-delay:3.05s"><rect x="882" y="152" width="56" height="24" rx="5" fill="#E0F2FE" stroke="#7DD3FC"/><rect x="890" y="162" width="30" height="4" rx="2" fill="#0284C7"/></g>
+  <g class="bk" style="animation-delay:3.60s"><rect x="702" y="92" width="56" height="24" rx="5" fill="#E0F2FE" stroke="#7DD3FC"/><rect x="710" y="102" width="30" height="4" rx="2" fill="#0284C7"/></g>
+  <g class="bk" style="animation-delay:4.15s"><rect x="822" y="212" width="56" height="24" rx="5" fill="#E0F2FE" stroke="#7DD3FC"/><rect x="830" y="222" width="30" height="4" rx="2" fill="#0284C7"/></g>
+  <g class="bk" style="animation-delay:4.70s"><rect x="762" y="122" width="56" height="24" rx="5" fill="#E0F2FE" stroke="#7DD3FC"/><rect x="770" y="132" width="30" height="4" rx="2" fill="#0284C7"/></g>
+  <g class="bk" style="animation-delay:5.25s"><rect x="882" y="212" width="56" height="24" rx="5" fill="#E0F2FE" stroke="#7DD3FC"/><rect x="890" y="222" width="30" height="4" rx="2" fill="#0284C7"/></g>
+  <g class="toast">
+  <rect x="972" y="48" width="180" height="100" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="998" cy="76" r="12" fill="#E0F2FE"/>
+  <path d="M993 76l3.5 3.5 7-7" fill="none" stroke="#0284C7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="f" x="1018" y="81" font-size="15" font-weight="600" fill="#0F172A">Booked</text>
+  <text class="m" x="988" y="110" font-size="10" font-weight="600" fill="#475569">Serial #12 · Wed 17:00</text>
+  <rect x="988" y="120" width="12" height="16" rx="2.5" fill="none" stroke="#0284C7" stroke-width="1.4"/>
+  <text class="f" x="1008" y="132" font-size="11" font-weight="500" fill="#64748B">SMS reminder sent</text>
+  </g>
+  <rect x="972" y="160" width="180" height="92" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text class="m" x="986" y="182" font-size="10" font-weight="700" fill="#64748B" letter-spacing="1.5">NOW SERVING</text>
+  <g class="q0"><text class="s" x="988" y="226" font-size="34" font-weight="400" fill="#0284C7">#07</text></g>
+  <g class="q1"><text class="s" x="988" y="226" font-size="34" font-weight="400" fill="#0284C7">#08</text></g>
+  <g class="q2"><text class="s" x="988" y="226" font-size="34" font-weight="400" fill="#0284C7">#09</text></g>
+  <text class="f" x="1064" y="214" font-size="11" font-weight="500" fill="#475569">Dr. chamber 2</text>
+  <text class="f" x="1064" y="230" font-size="11" font-weight="500" fill="#64748B">Avg wait 12 min</text>
+</svg>
